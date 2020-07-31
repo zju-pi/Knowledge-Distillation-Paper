@@ -1,6 +1,23 @@
 # Knowledge-Distillation-Paper
 This resposity maintains a series of papers on knowledge distillation.
 
+## Feature Maps Distillation
+
+- **FitNets: Hints for Thin Deep Nets, ICLR 2015** [[Paper]](https://arxiv.org/abs/1412.6550) [[Theano]](https://github.com/adri-romsor/FitNets)
+  - *Adriana Romero, Nicolas Ballas, Samira Ebrahimi Kahou, Antoine Chassang, Carlo Gatta, Yoshua Bengio.*
+
+- **Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer, ICLR 2017** [[Paper]](https://arxiv.org/abs/1612.03928) [[PyTorch]](https://github.com/szagoruyko/attention-transfer)
+  - *Sergey Zagoruyko, Nikos Komodakis.*
+
+- **Variational Information Distillation for Knowledge Transfer, CVPR 2019** [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ahn_Variational_Information_Distillation_for_Knowledge_Transfer_CVPR_2019_paper.pdf) 
+  - *Sungsoo Ahn, Shell Xu Hu, Andreas Damianou, Neil D. Lawrence, Zhenwen Dai.*
+
+- **Similarity-Preserving Knowledge Distillation, CVPR 2019** [[Paper]](https://arxiv.org/abs/1907.09682) 
+  - *Frederick Tung, Greg Mori.*
+
+- **Heterogeneous Knowledge Distillation using Information Flow Modeling, CVPR 2020** [[Paper]](https://arxiv.org/abs/2005.00727v1) [[Pytorch]](https://github.com/passalis/pkth)
+  - *Nikolaos Passalis, Maria Tzelepi, Anastasios Tefas.*
+
 
 ## Online Knowledge Distillation
 
@@ -33,4 +50,6 @@ This resposity maintains a series of papers on knowledge distillation.
 - **Zero-shot Knowledge Transfer via Adversarial Belief Matching, NIPS 2019** [[Paper]](https://arxiv.org/abs/1905.09768v4) [[Pytorch]](https://github.com/polo5/ZeroShotKnowledgeTransfer) 
   - *Paul Micaelli, Amos Storkey*
 
+## Useful Resources
 
+- **Statistics of acceptance rate for the main AI conferences** [[Link]](https://github.com/lixin4ever/Conference-Acceptance-Rate)
