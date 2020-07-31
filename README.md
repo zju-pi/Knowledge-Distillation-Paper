@@ -21,7 +21,7 @@ This resposity maintains a series of papers on knowledge distillation.
 
 ## Few-shot Knowledge Distillation
 
-- **Data-Free Knowledge Distillation for Deep Neural Networks, NIPS 2017** [[Paper]](https://arxiv.org/abs/1710.07535v2) 
+- **Data-Free Knowledge Distillation for Deep Neural Networks, NIPS 2017 workshop** [[Paper]](https://arxiv.org/abs/1710.07535v2) 
   - *Gaurav Kumar Nayak, Konda Reddy Mopuri, Vaisakh Shaj, R. Venkatesh Babu, Anirban Chakraborty* 
 
 - **Zero-Shot Knowledge Distillation in Deep Networks, ICML 2019** [[Paper]](https://arxiv.org/abs/1905.08114v1) [[Tensorflow]](https://github.com/vcl-iisc/ZSKD) 
