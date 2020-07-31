@@ -17,11 +17,14 @@ This resposity maintains a series of papers on knowledge distillation.
 
 - **Data-Free Knowledge Distillation for Deep Neural Networks, NIPS 2017** [[Paper]](https://arxiv.org/abs/1710.07535v2) 
   - *Gaurav Kumar Nayak, Konda Reddy Mopuri, Vaisakh Shaj, R. Venkatesh Babu, Anirban Chakraborty* 
+
 - **Zero-Shot Knowledge Distillation in Deep Networks, ICML 2019** [[Paper]](https://arxiv.org/abs/1905.08114v1) [[Tensorflow]](https://github.com/vcl-iisc/ZSKD) 
   - *Raphael Gontijo Lopes, Stefano Fenu, Thad Starner*
+
 - **DAFL: Data-Free Learning of Student Networks, ICCV 2019** [[Paper]](https://arxiv.org/abs/1904.01186) 
-  - *Hanting Chen, Yunhe Wang, Chang Xu, Zhaohui Yang, Chuanjian Liu, Boxin Shi,*
-    *Chunjing Xu, Chao Xu, Qi Tian*
+  - *Hanting Chen, Yunhe Wang, Chang Xu, Zhaohui Yang, Chuanjian Liu, Boxin Shi, Chunjing Xu, Chao Xu, Qi Tian*
+
 - **Zero-shot Knowledge Transfer via Adversarial Belief Matching, NIPS 2019** [[Paper]](https://arxiv.org/abs/1905.09768v4) [[Pytorch]](https://github.com/polo5/ZeroShotKnowledgeTransfer) 
   - *Paul Micaelli, Amos Storkey*
+
 
