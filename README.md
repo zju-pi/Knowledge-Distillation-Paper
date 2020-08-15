@@ -75,6 +75,24 @@ This resposity maintains a series of papers on knowledge distillation.
 - **Generative Low-bitwidth Data Free Quantization, ECCV 2020** [[Paper]](https://arxiv.org/abs/2003.03603?context=cs) [[Pytorch]](https://github.com/xushoukai/GDFQ) 
   - *Shoukai Xu, Haokun Li, Bohan Zhuang, Jing Liu, Jiezhang Cao, Chuangrun Liang, Mingkui Tan*
 
+- **This dataset does not exist: training models from generated images, ICASSP 2020** [[Paper]](https://arxiv.org/abs/1911.02888) 
+  - *Victor Besnier, Himalaya Jain, Andrei Bursuc, Matthieu Cord, Patrick Pérez*
+
+- **MAZE: Data-Free Model Stealing Attack Using Zeroth-Order Gradient Estimation, arXiv 2020.05** [[Paper]](https://arxiv.org/abs/2005.03161) 
+  - *Sanjay Kariyappa, Atul Prakash, Moinuddin Qureshi*
+
+- **Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data, arXiv 2019.12** [[Paper]](https://arxiv.org/abs/1912.07768) [[Pytorch]](https://github.com/uber-research/GTN) 
+  - *Felipe Petroski Such, Aditya Rawal, Joel Lehman, Kenneth O. Stanley, Jeff Clune*
+
+- **Billion-scale semi-supervised learning for image classification, arXiv 2019.05** [[Paper]](https://arxiv.org/abs/1905.00546) [[Pytorch]](https://github.com/leaderj1001/Billion-scale-semi-supervised-learning) 
+  - *I. Zeki Yalniz, Hervé Jégou, Kan Chen, Manohar Paluri, Dhruv Mahajan*
+
+- **Data-free Parameter Pruning for Deep Neural Networks, BMVC 2015** [[Paper]](https://arxiv.org/abs/1507.06149v1) 
+  - *Suraj Srinivas, R. Venkatesh Babu*
+
+- **Data-Free Quantization Through Weight Equalization and Bias Correction, ICCV 2019** [[Paper]](https://arxiv.org/abs/1906.04721v3) [[Pytorch1]](https://github.com/jakc4103/DFQ) [[Pytorch2]](https://github.com/ANSHUMAN87/Bias-Correction) 
+  - *Markus Nagel, Mart van Baalen, Tijmen Blankevoort, Max Welling*
+
 ## Useful Resources
 
 - **Statistics of acceptance rate for the main AI conferences** [[Link]](https://github.com/lixin4ever/Conference-Acceptance-Rate)
