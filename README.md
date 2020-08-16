@@ -44,27 +44,23 @@ This resposity maintains a series of papers on knowledge distillation.
 - **Zero-Shot Knowledge Distillation in Deep Networks, ICML 2019** [[Paper]](https://arxiv.org/abs/1905.08114v1) [[Tensorflow]](https://github.com/vcl-iisc/ZSKD) 
   - *Raphael Gontijo Lopes, Stefano Fenu, Thad Starner*
 
-- **DAFL: Data-Free Learning of Student Networks, ICCV 2019** [[Paper]](https://arxiv.org/abs/1904.01186) [[PyTorch]](https://github.com/huawei-noah/Data-Efficient-Model-Compression/tree/master/DAFL)
-  - *Hanting Chen, Yunhe Wang, Chang Xu, Zhaohui Yang, Chuanjian Liu, Boxin Shi, Chunjing Xu, Chao Xu, Qi Tian*
+- **Dream Distillation: A Data-Independent Model Compression Framework, ICML 2019 Workshop** [[Paper]](https://arxiv.org/abs/1905.07072v1) 
+  - *Kartikeya Bhardwaj, Naveen Suda, Radu Marculescu*
 
 - **Zero-shot Knowledge Transfer via Adversarial Belief Matching, NIPS 2019** [[Paper]](https://arxiv.org/abs/1905.09768v4) [[Pytorch]](https://github.com/polo5/ZeroShotKnowledgeTransfer) 
   - *Paul Micaelli, Amos Storkey*
 
-- **Dream Distillation: A Data-Independent Model Compression Framework, ICML 2019 Workshop** [[Paper]](https://arxiv.org/abs/1905.07072v1) 
-  - *Kartikeya Bhardwaj, Naveen Suda, Radu Marculescu*
+- **Knowledge Extraction with No Observable Data, NIPS 2019** [[Paper]](http://papers.nips.cc/paper/8538-knowledge-extraction-with-no-observable-data) [[Pytorch]](https://github.com/snudatalab/KegNet) 
+  - *Hongxu Yin, Pavlo Molchanov, Zhizhong Li, Jose M. Alvarez, Arun Mallya, Derek Hoiem, Niraj K. Jha, Jan Kautz*
 
-- **Data-Free Adversarial Distillation, ArXiv 2019.12** [[Paper]](https://arxiv.org/abs/1912.11006) [[Pytorch]](https://github.com/VainF/Data-Free-Adversarial-Distillation) 
-  - *Gongfan Fang, Jie Song, Chengchao Shen, Xinchao Wang, Da Chen, Mingli Song*
-  - Similar to `Zero-shot Knowledge Transfer via Adversarial Belief Matching`
+- **DAFL: Data-Free Learning of Student Networks, ICCV 2019** [[Paper]](https://arxiv.org/abs/1904.01186) [[PyTorch]](https://github.com/huawei-noah/Data-Efficient-Model-Compression/tree/master/DAFL)
+  - *Hanting Chen, Yunhe Wang, Chang Xu, Zhaohui Yang, Chuanjian Liu, Boxin Shi, Chunjing Xu, Chao Xu, Qi Tian*
 
 - **Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion, CVPR 2020** [[Paper]](https://arxiv.org/abs/1912.08795v2) [[Pytorch]](https://github.com/NVlabs/DeepInversion) 
   - *Hongxu Yin, Pavlo Molchanov, Zhizhong Li, Jose M. Alvarez, Arun Mallya, Derek Hoiem, Niraj K. Jha, Jan Kautz*
 
 - **The Knowledge Within: Methods for Data-Free Model Compression, CVPR 2020** [[Paper]](https://arxiv.org/abs/1912.01274) 
   - *Matan Haroush, Itay Hubara, Elad Hoffer, Daniel Soudry*
-
-- **Knowledge Extraction with No Observable Data, NIPS 2019** [[Paper]](http://papers.nips.cc/paper/8538-knowledge-extraction-with-no-observable-data) [[Pytorch]](https://github.com/snudatalab/KegNet) 
-  - *Hongxu Yin, Pavlo Molchanov, Zhizhong Li, Jose M. Alvarez, Arun Mallya, Derek Hoiem, Niraj K. Jha, Jan Kautz*
 
 - **Data-Free Knowledge Amalgamation via Group-Stack Dual-GAN, CVPR 2020** [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_Data-Free_Knowledge_Amalgamation_via_Group-Stack_Dual-GAN_CVPR_2020_paper.pdf)  [[Supp]](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Ye_Data-Free_Knowledge_Amalgamation_CVPR_2020_supplemental.pdf) 
   - *Jingwen Ye, Yixin Ji, Xinchao Wang, Xin Gao, Mingli Song*
@@ -78,20 +74,29 @@ This resposity maintains a series of papers on knowledge distillation.
 - **This dataset does not exist: training models from generated images, ICASSP 2020** [[Paper]](https://arxiv.org/abs/1911.02888) 
   - *Victor Besnier, Himalaya Jain, Andrei Bursuc, Matthieu Cord, Patrick Pérez*
 
-- **MAZE: Data-Free Model Stealing Attack Using Zeroth-Order Gradient Estimation, arXiv 2020.05** [[Paper]](https://arxiv.org/abs/2005.03161) 
-  - *Sanjay Kariyappa, Atul Prakash, Moinuddin Qureshi*
+- **Billion-scale semi-supervised learning for image classification, arXiv 2019.05** [[Paper]](https://arxiv.org/abs/1905.00546) [[Pytorch]](https://github.com/leaderj1001/Billion-scale-semi-supervised-learning) 
+  - *I. Zeki Yalniz, Hervé Jégou, Kan Chen, Manohar Paluri, Dhruv Mahajan*
+
+- **Data-Free Adversarial Distillation, ArXiv 2019.12** [[Paper]](https://arxiv.org/abs/1912.11006) [[Pytorch]](https://github.com/VainF/Data-Free-Adversarial-Distillation) 
+  - *Gongfan Fang, Jie Song, Chengchao Shen, Xinchao Wang, Da Chen, Mingli Song*
+  - Similar to `Zero-shot Knowledge Transfer via Adversarial Belief Matching`
 
 - **Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data, arXiv 2019.12** [[Paper]](https://arxiv.org/abs/1912.07768) [[Pytorch]](https://github.com/uber-research/GTN) 
   - *Felipe Petroski Such, Aditya Rawal, Joel Lehman, Kenneth O. Stanley, Jeff Clune*
 
-- **Billion-scale semi-supervised learning for image classification, arXiv 2019.05** [[Paper]](https://arxiv.org/abs/1905.00546) [[Pytorch]](https://github.com/leaderj1001/Billion-scale-semi-supervised-learning) 
-  - *I. Zeki Yalniz, Hervé Jégou, Kan Chen, Manohar Paluri, Dhruv Mahajan*
+- **MAZE: Data-Free Model Stealing Attack Using Zeroth-Order Gradient Estimation, arXiv 2020.05** [[Paper]](https://arxiv.org/abs/2005.03161) 
+  - *Sanjay Kariyappa, Atul Prakash, Moinuddin Qureshi*
+
+### Other Data-free Model Compression
 
 - **Data-free Parameter Pruning for Deep Neural Networks, BMVC 2015** [[Paper]](https://arxiv.org/abs/1507.06149v1) 
   - *Suraj Srinivas, R. Venkatesh Babu*
 
 - **Data-Free Quantization Through Weight Equalization and Bias Correction, ICCV 2019** [[Paper]](https://arxiv.org/abs/1906.04721v3) [[Pytorch1]](https://github.com/jakc4103/DFQ) [[Pytorch2]](https://github.com/ANSHUMAN87/Bias-Correction) 
   - *Markus Nagel, Mart van Baalen, Tijmen Blankevoort, Max Welling*
+
+- **DAC: Data-free Automatic Acceleration of Convolutional Networks, WACV 2019** [[Paper]](https://arxiv.org/abs/1812.08374) 
+  - *Xin Li, Shuai Zhang, Bolan Jiang, Yingyong Qi, Mooi Choo Chuah, Ning Bi*
 
 ## Useful Resources
 
