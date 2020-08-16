@@ -41,17 +41,17 @@ This resposity maintains a series of papers on knowledge distillation.
 - **Data-Free Knowledge Distillation for Deep Neural Networks, NIPS 2017 workshop** [[Paper]](https://arxiv.org/abs/1710.07535v2) [[Tensorflow]](https://github.com/iRapha/replayed_distillation)
   - *Gaurav Kumar Nayak, Konda Reddy Mopuri, Vaisakh Shaj, R. Venkatesh Babu, Anirban Chakraborty* 
 
-- **Zero-Shot Knowledge Distillation in Deep Networks, ICML 2019** [[Paper]](https://arxiv.org/abs/1905.08114v1) [[Tensorflow]](https://github.com/vcl-iisc/ZSKD) 
-  - *Raphael Gontijo Lopes, Stefano Fenu, Thad Starner*
-
-- **Dream Distillation: A Data-Independent Model Compression Framework, ICML 2019 Workshop** [[Paper]](https://arxiv.org/abs/1905.07072v1) 
-  - *Kartikeya Bhardwaj, Naveen Suda, Radu Marculescu*
-
 - **Zero-shot Knowledge Transfer via Adversarial Belief Matching, NIPS 2019** [[Paper]](https://arxiv.org/abs/1905.09768v4) [[Pytorch]](https://github.com/polo5/ZeroShotKnowledgeTransfer) 
   - *Paul Micaelli, Amos Storkey*
 
 - **Knowledge Extraction with No Observable Data, NIPS 2019** [[Paper]](http://papers.nips.cc/paper/8538-knowledge-extraction-with-no-observable-data) [[Pytorch]](https://github.com/snudatalab/KegNet) 
   - *Hongxu Yin, Pavlo Molchanov, Zhizhong Li, Jose M. Alvarez, Arun Mallya, Derek Hoiem, Niraj K. Jha, Jan Kautz*
+
+- **Zero-Shot Knowledge Distillation in Deep Networks, ICML 2019** [[Paper]](https://arxiv.org/abs/1905.08114v1) [[Tensorflow]](https://github.com/vcl-iisc/ZSKD) 
+  - *Raphael Gontijo Lopes, Stefano Fenu, Thad Starner*
+
+- **Dream Distillation: A Data-Independent Model Compression Framework, ICML 2019 Workshop** [[Paper]](https://arxiv.org/abs/1905.07072v1) 
+  - *Kartikeya Bhardwaj, Naveen Suda, Radu Marculescu*
 
 - **DAFL: Data-Free Learning of Student Networks, ICCV 2019** [[Paper]](https://arxiv.org/abs/1904.01186) [[PyTorch]](https://github.com/huawei-noah/Data-Efficient-Model-Compression/tree/master/DAFL)
   - *Hanting Chen, Yunhe Wang, Chang Xu, Zhaohui Yang, Chuanjian Liu, Boxin Shi, Chunjing Xu, Chao Xu, Qi Tian*
