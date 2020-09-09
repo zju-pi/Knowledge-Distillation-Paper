@@ -35,6 +35,16 @@ This resposity maintains a series of papers on knowledge distillation.
 
 - **Online Knowledge Distillation with Diverse Peers, AAAI 2020** [[Paper]](https://arxiv.org/abs/1912.00350) [[Pytorch]](https://github.com/DefangChen/OKDDip-AAAI2020)
   - *Defang Chen, Jian-Ping Mei, Can Wang, Yan Feng and Chun Chen.*
+  
+- **Online Knowledge Distillation via Collaborative Learning, CVPR 2020** [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_Online_Knowledge_Distillation_via_Collaborative_Learning_CVPR_2020_paper.pdf) 
+  - *Qiushan Guo, Xinjiang Wang, Yichao Wu, Zhipeng Yu, Ding Liang, Xiaolin Hu, Ping Luo.*
+  
+- **Feature-map-level Online Adversarial Knowledge Distillation, ICML 2020** [[Paper]](https://arxiv.org/abs/2002.01775) [[Pytorch]](https://github.com/DefangChen/OKDDip-AAAI2020)
+  - *Inseop Chung, SeongUk Park, Jangho Kim, Nojun Kwak.*
+ 
+- **Knowledge Transfer via Dense Cross-Layer Mutual-Distillation, ECCV 2020** [[Paper]](https://arxiv.org/abs/2008.07816) [[Torchnet]](https://github.com/sundw2014/DCM)
+  - *Anbang Yao, Dawei Sun.*
+  
 
 ## Few-shot Knowledge Distillation
 
