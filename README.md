@@ -46,7 +46,7 @@ This resposity maintains a series of papers on knowledge distillation.
   - *Anbang Yao, Dawei Sun.*
   
 
-## Few-shot Knowledge Distillation
+## Data-Free Knowledge Distillation
 
 - **Data-Free Knowledge Distillation for Deep Neural Networks, NIPS 2017 workshop** [[Paper]](https://arxiv.org/abs/1710.07535v2) [[Tensorflow]](https://github.com/iRapha/replayed_distillation)
   - *Gaurav Kumar Nayak, Konda Reddy Mopuri, Vaisakh Shaj, R. Venkatesh Babu, Anirban Chakraborty* 
@@ -108,6 +108,9 @@ This resposity maintains a series of papers on knowledge distillation.
 - **DAC: Data-free Automatic Acceleration of Convolutional Networks, WACV 2019** [[Paper]](https://arxiv.org/abs/1812.08374) 
   - *Xin Li, Shuai Zhang, Bolan Jiang, Yingyong Qi, Mooi Choo Chuah, Ning Bi*
 
+## Adversarial \& Robust Distillation
+
 ## Useful Resources
 
 - **Statistics of acceptance rate for the main AI conferences** [[Link]](https://github.com/lixin4ever/Conference-Acceptance-Rate)
+- **AI conference deadlines** [[Link]](https://aideadlin.es/?sub=ML,CV,DM,SP)
