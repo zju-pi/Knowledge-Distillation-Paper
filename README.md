@@ -109,6 +109,20 @@ This resposity maintains a series of papers on knowledge distillation.
   - *Xin Li, Shuai Zhang, Bolan Jiang, Yingyong Qi, Mooi Choo Chuah, Ning Bi*
 
 ## Adversarial \& Robust Distillation
+- **Adversarially Robust Distillation** [[Paper]](https://arxiv.org/abs/1905.09747v2) [[Pytorch]](https://github.com/goldblum/AdversariallyRobustDistillation)
+  - *Micah Goldblum, Liam Fowl, Soheil Feizi, Tom Goldstein*
+
+- **Sobolev Training for Neural Networks** [[Paper]](https://arxiv.org/abs/1706.04859v3) [[Tensorflow]](https://github.com/mcneela/Sobolev)
+  - *Wojciech Marian Czarnecki, Simon Osindero, Max Jaderberg, Grzegorz Świrszcz, Razvan Pascanu*
+
+- **Knowledge Transfer with Jacobian Matching** [[Paper]](https://arxiv.org/abs/1803.00443?context=cs.CV)
+  - *Suraj Srinivas, Francois Fleuret*
+ 
+- **Jacobian Adversarially Regularized Networks for Robustness** [[Paper]](https://arxiv.org/abs/1912.10185) [[Tensorflow]](https://github.com/alvinchangw/JARN_ICLR2020)
+  - *Alvin Chan, Yi Tay, Yew Soon Ong, Jie Fu*
+  
+- **On the Connection Between Adversarial Robustness and Saliency Map Interpretability** [[Paper]](https://arxiv.org/abs/1905.04172) [[Code]](https://github.com/cetmann/robustness-interpretability)
+  - *Christian Etmann, Sebastian Lunz, Peter Maass, Carola-Bibiane Schönlieb*
 
 ## Useful Resources
 
