@@ -128,3 +128,12 @@ This resposity maintains a series of papers on knowledge distillation.
 
 - **Statistics of acceptance rate for the main AI conferences** [[Link]](https://github.com/lixin4ever/Conference-Acceptance-Rate)
 - **AI conference deadlines** [[Link]](https://aideadlin.es/?sub=ML,CV,DM,SP)
+
+### Accepted paper list
+- **NIPS-2019** [[Link]](https://neurips.cc/Conferences/2019/Schedule?type=Poster)
+- **CVPR-2020** [[Link]](https://openaccess.thecvf.com/CVPR2020_search)
+- **ECCV-2020** [[Link]](https://www.ecva.net/papers.php)
+- **ICLR-2020** [[Link]](https://openreview.net/group?id=ICLR.cc/2020/Conference)
+
+
+
