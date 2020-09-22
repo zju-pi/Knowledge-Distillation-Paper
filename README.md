@@ -35,30 +35,30 @@ This resposity maintains a series of papers on knowledge distillation.
 
 - **Online Knowledge Distillation with Diverse Peers, AAAI 2020** [[Paper]](https://arxiv.org/abs/1912.00350) [[Pytorch]](https://github.com/DefangChen/OKDDip-AAAI2020)
   - *Defang Chen, Jian-Ping Mei, Can Wang, Yan Feng and Chun Chen.*
-  
+
 - **Online Knowledge Distillation via Collaborative Learning, CVPR 2020** [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_Online_Knowledge_Distillation_via_Collaborative_Learning_CVPR_2020_paper.pdf) 
   - *Qiushan Guo, Xinjiang Wang, Yichao Wu, Zhipeng Yu, Ding Liang, Xiaolin Hu, Ping Luo.*
-  
+
 - **Feature-map-level Online Adversarial Knowledge Distillation, ICML 2020** [[Paper]](https://arxiv.org/abs/2002.01775) [[Pytorch]](https://github.com/DefangChen/OKDDip-AAAI2020)
   - *Inseop Chung, SeongUk Park, Jangho Kim, Nojun Kwak.*
- 
+
 - **Knowledge Transfer via Dense Cross-Layer Mutual-Distillation, ECCV 2020** [[Paper]](https://arxiv.org/abs/2008.07816) [[Torchnet]](https://github.com/sundw2014/DCM)
   - *Anbang Yao, Dawei Sun.*
-  
+
 
 ## Data-Free Knowledge Distillation
 
 - **Data-Free Knowledge Distillation for Deep Neural Networks, NIPS 2017 workshop** [[Paper]](https://arxiv.org/abs/1710.07535v2) [[Tensorflow]](https://github.com/iRapha/replayed_distillation)
-  - *Gaurav Kumar Nayak, Konda Reddy Mopuri, Vaisakh Shaj, R. Venkatesh Babu, Anirban Chakraborty* 
+  - *Raphael Gontijo Lopes, Stefano Fenu, Thad Starner*
 
 - **Zero-shot Knowledge Transfer via Adversarial Belief Matching, NIPS 2019** [[Paper]](https://arxiv.org/abs/1905.09768v4) [[Pytorch]](https://github.com/polo5/ZeroShotKnowledgeTransfer) 
   - *Paul Micaelli, Amos Storkey*
 
 - **Knowledge Extraction with No Observable Data, NIPS 2019** [[Paper]](http://papers.nips.cc/paper/8538-knowledge-extraction-with-no-observable-data) [[Pytorch]](https://github.com/snudatalab/KegNet) 
-  - *Hongxu Yin, Pavlo Molchanov, Zhizhong Li, Jose M. Alvarez, Arun Mallya, Derek Hoiem, Niraj K. Jha, Jan Kautz*
+  - *Jaemin Yoo, Minyong Cho, Taebum Kim, U Kang*
 
 - **Zero-Shot Knowledge Distillation in Deep Networks, ICML 2019** [[Paper]](https://arxiv.org/abs/1905.08114v1) [[Tensorflow]](https://github.com/vcl-iisc/ZSKD) 
-  - *Raphael Gontijo Lopes, Stefano Fenu, Thad Starner*
+  - *Gaurav Kumar Nayak, Konda Reddy Mopuri, Vaisakh Shaj, R. Venkatesh Babu, Anirban Chakraborty*
 
 - **Dream Distillation: A Data-Independent Model Compression Framework, ICML 2019 Workshop** [[Paper]](https://arxiv.org/abs/1905.07072v1) 
   - *Kartikeya Bhardwaj, Naveen Suda, Radu Marculescu*
@@ -111,19 +111,19 @@ This resposity maintains a series of papers on knowledge distillation.
 ## Adversarial \& Robust Distillation
 - **Sobolev Training for Neural Networks, NIPS 2017** [[Paper]](https://arxiv.org/abs/1706.04859v3) [[Tensorflow]](https://github.com/mcneela/Sobolev)
   - *Wojciech Marian Czarnecki, Simon Osindero, Max Jaderberg, Grzegorz Świrszcz, Razvan Pascanu*
-  
+
 - **Knowledge Transfer with Jacobian Matching, ICML 2018** [[Paper]](https://arxiv.org/abs/1803.00443?context=cs.CV)
   - *Suraj Srinivas, Francois Fleuret*
-  
+
 - **On the Connection Between Adversarial Robustness and Saliency Map Interpretability, ICML 2019** [[Paper]](https://arxiv.org/abs/1905.04172) [[Code]](https://github.com/cetmann/robustness-interpretability)
   - *Christian Etmann, Sebastian Lunz, Peter Maass, Carola-Bibiane Schönlieb*
-  
+
 - **Adversarially Robust Distillation, AAAI 2020** [[Paper]](https://arxiv.org/abs/1905.09747v2) [[Pytorch]](https://github.com/goldblum/AdversariallyRobustDistillation)
   - *Micah Goldblum, Liam Fowl, Soheil Feizi, Tom Goldstein*
 
 - **Jacobian Adversarially Regularized Networks for Robustness, ICLR 2020** [[Paper]](https://arxiv.org/abs/1912.10185) [[Tensorflow]](https://github.com/alvinchangw/JARN_ICLR2020)
   - *Alvin Chan, Yi Tay, Yew Soon Ong, Jie Fu*
-  
+
 ## Useful Resources
 
 - **Statistics of acceptance rate for the main AI conferences** [[Link]](https://github.com/lixin4ever/Conference-Acceptance-Rate)
