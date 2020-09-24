@@ -45,6 +45,9 @@ This resposity maintains a series of papers on knowledge distillation.
 - **Knowledge Transfer via Dense Cross-Layer Mutual-Distillation, ECCV 2020** [[Paper]](https://arxiv.org/abs/2008.07816) [[Torchnet]](https://github.com/sundw2014/DCM)
   - *Anbang Yao, Dawei Sun.*
 
+- **AMLN: Adversarial-based Mutual Learning Network for Online Knowledge Distillation, ECCV 2020** [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570154.pdf) 
+  - *Xiaobing Zhang, Shijian Lu, HaigangGong, Zhipeng Luo, and MingLiu1*
+
 
 ## Data-Free Knowledge Distillation
 
@@ -130,10 +133,10 @@ This resposity maintains a series of papers on knowledge distillation.
 - **AI conference deadlines** [[Link]](https://aideadlin.es/?sub=ML,CV,DM,SP)
 
 ### Accepted paper list
-- **NIPS-2019** [[Link]](https://neurips.cc/Conferences/2019/Schedule?type=Poster)
-- **CVPR-2020** [[Link]](https://openaccess.thecvf.com/CVPR2020_search)
-- **ECCV-2020** [[Link]](https://www.ecva.net/papers.php)
-- **ICLR-2020** [[Link]](https://openreview.net/group?id=ICLR.cc/2020/Conference)
+- **NIPS:** 2019 [[Link]](https://neurips.cc/Conferences/2019/Schedule?type=Poster)
+- **CVPR:** 2020 [[Link]](https://openaccess.thecvf.com/CVPR2020_search)
+- **ECCV:** 2020 [[Link]](https://www.ecva.net/papers.php)
+- **ICLR:** 2020 [[Link]](https://openreview.net/group?id=ICLR.cc/2020/Conference)
 - **ICCV:** 2019 [[Link]](https://openaccess.thecvf.com/ICCV2019)
 
 
