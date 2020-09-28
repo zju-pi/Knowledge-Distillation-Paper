@@ -126,6 +126,10 @@ This resposity maintains a series of papers on knowledge distillation.
 
 - **Jacobian Adversarially Regularized Networks for Robustness, ICLR 2020** [[Paper]](https://arxiv.org/abs/1912.10185) [[Tensorflow]](https://github.com/alvinchangw/JARN_ICLR2020)
   - *Alvin Chan, Yi Tay, Yew Soon Ong, Jie Fu*
+  
+- **What it Thinks is Important is Important: Robustness Transfers through Input Gradients, CVPR 2020** [[Paper]](https://arxiv.org/pdf/1912.05699.pdf)[[Tensorflow]](https://github.com/alvinchangw/IGAM_CVPR2020)
+  - *Alvin Chan, Yi Tay, Yew Soon Ong*
+
 
 ## Useful Resources
 
