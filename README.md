@@ -18,6 +18,8 @@ This resposity maintains a series of papers on knowledge distillation.
 - **Heterogeneous Knowledge Distillation using Information Flow Modeling, CVPR 2020** [[Paper]](https://arxiv.org/abs/2005.00727v1) [[Pytorch]](https://github.com/passalis/pkth)
   - *Nikolaos Passalis, Maria Tzelepi, Anastasios Tefas.*
 
+- **Matching Guided Distillation, ECCV 2020** [[Paper]](https://arxiv.org/abs/2008.09958) [[Pytorch]](https://github.com/KaiyuYue/mgd)
+  - *Kaiyu Yue, Jiangfan Deng, Feng Zhou.*
 
 ## Online Knowledge Distillation
 
@@ -47,10 +49,12 @@ This resposity maintains a series of papers on knowledge distillation.
 
 - **AMLN: Adversarial-based Mutual Learning Network for Online Knowledge Distillation, ECCV 2020** [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570154.pdf) 
   - *Xiaobing Zhang, Shijian Lu, HaigangGong, Zhipeng Luo, and MingLiu1*
+  
+- **Online Ensemble Model Compression usingKnowledge Distillation, ECCV 2020** [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640018.pdf) 
+  - *Devesh Walawalkar, Zhiqiang Shen, and Marios Savvides*
 
 
-## Data-Free Knowledge Distillation
-
+## Data-Free Knowledge Distillation (Maintained by [IsaccGuang](https://github.com/IsaccGuang))
 - **Data-Free Knowledge Distillation for Deep Neural Networks, NIPS 2017 workshop** [[Paper]](https://arxiv.org/abs/1710.07535v2) [[Tensorflow]](https://github.com/iRapha/replayed_distillation)
   - *Raphael Gontijo Lopes, Stefano Fenu, Thad Starner*
 
@@ -111,7 +115,7 @@ This resposity maintains a series of papers on knowledge distillation.
 - **DAC: Data-free Automatic Acceleration of Convolutional Networks, WACV 2019** [[Paper]](https://arxiv.org/abs/1812.08374) 
   - *Xin Li, Shuai Zhang, Bolan Jiang, Yingyong Qi, Mooi Choo Chuah, Ning Bi*
 
-## Adversarial \& Robust Distillation
+## Adversarial \& Robust Distillation (Maintained by [Azendure](https://github.com/Azendure))
 - **Sobolev Training for Neural Networks, NIPS 2017** [[Paper]](https://arxiv.org/abs/1706.04859v3) [[Tensorflow]](https://github.com/mcneela/Sobolev)
   - *Wojciech Marian Czarnecki, Simon Osindero, Max Jaderberg, Grzegorz Świrszcz, Razvan Pascanu*
 
