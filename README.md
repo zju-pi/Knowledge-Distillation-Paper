@@ -129,6 +129,14 @@ This resposity maintains a series of papers on knowledge distillation.
   
 - **What it Thinks is Important is Important: Robustness Transfers through Input Gradients, CVPR 2020** [[Paper]](https://arxiv.org/pdf/1912.05699.pdf)[[Tensorflow]](https://github.com/alvinchangw/IGAM_CVPR2020)
   - *Alvin Chan, Yi Tay, Yew Soon Ong*
+  
+### Adversarial Examples
+ - **Axiomatic Attribution for Deep Networks, ICML 2017** [[Paper]](https://arxiv.org/pdf/1703.01365.pdf) [[Code]](https://github.com/ankurtaly/Integrated-Gradients)
+   - Mukund Sundararajan, Ankur Taly, Qiqi Yan
+   
+ - **Adversarial Neural Pruning with Latent Vulnerability Suppression, ICML 2020** [[Paper]](https://arxiv.org/abs/1908.04355?context=cs.LG) [[Tensorflow]](https://github.com/divyam3897/ANP_VS)
+   - Divyam Madaan, Jinwoo Shin, Sung Ju Hwang
+
 
 
 ## Useful Resources
