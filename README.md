@@ -154,5 +154,5 @@ This resposity maintains a series of papers on knowledge distillation.
 - **ECCV:** 2020 [[Link]](https://www.ecva.net/papers.php)
 - **ICLR:** 2020 [[Link]](https://openreview.net/group?id=ICLR.cc/2020/Conference)
 - **ICCV:** 2019 [[Link]](https://openaccess.thecvf.com/ICCV2019)
-- **ICML:** 2020 [[Link]](https://icml.cc/Conferences/2020/Schedule?type=Poster)
+- **ICML:** 2020 [[Link]](https://icml.cc/virtual/2020/papers.html?filter=keywords)
 
