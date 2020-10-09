@@ -135,6 +135,12 @@ This resposity maintains a series of papers on knowledge distillation.
   - *Alvin Chan, Yi Tay, Yew Soon Ong*
   
 ### Adversarial Examples
+ - **Intriguing properties of neural networks, ICLR 2014** [[Paper]](https://arxiv.org/pdf/1312.6199.pdf)
+   - *Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, Ian Goodfellow, Rob Fergus*
+ 
+ - **Explaining and Harnessing Adversarial Examples, ICLR 2015** [[Paper]](https://arxiv.org/abs/1412.6572)
+   - *Ian J. Goodfellow, Jonathon Shlens, Christian Szegedy*
+
  - **Axiomatic Attribution for Deep Networks, ICML 2017** [[Paper]](https://arxiv.org/pdf/1703.01365.pdf) [[Code]](https://github.com/ankurtaly/Integrated-Gradients)
    - Mukund Sundararajan, Ankur Taly, Qiqi Yan
    
