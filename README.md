@@ -140,9 +140,15 @@ This resposity maintains a series of papers on knowledge distillation.
  
  - **Explaining and Harnessing Adversarial Examples, ICLR 2015** [[Paper]](https://arxiv.org/abs/1412.6572)
    - *Ian J. Goodfellow, Jonathon Shlens, Christian Szegedy*
+   
+ - **The Limitations of Deep Learning in Adversarial Settings, Euro S&P 2016** [[Paper]](https://arxiv.org/abs/1511.07528?context=cs)
+   - *Nicolas Papernot, Patrick McDaniel, Somesh Jha, Matt Fredrikson, Z. Berkay Celik, Ananthram Swami*
 
  - **Axiomatic Attribution for Deep Networks, ICML 2017** [[Paper]](https://arxiv.org/pdf/1703.01365.pdf) [[Code]](https://github.com/ankurtaly/Integrated-Gradients)
-   - Mukund Sundararajan, Ankur Taly, Qiqi Yan
+   - *Mukund Sundararajan, Ankur Taly, Qiqi Yan*
+   
+ - **Towards Deep Learning Models Resistant to Adversarial Attacks, ICLR 2018** [[Paper]](https://arxiv.org/pdf/1706.06083.pdf) [[Code1]](https://github.com/MadryLab/mnist_challenge) [[Code2]](https://github.com/MadryLab/cifar10_challenge)
+   - *Madry, Aleksander，Makelov, Aleksandar，Schmidt, Ludwig，Tsipras, Dimitris，Vladu, Adrian*
    
  - **Adversarial Neural Pruning with Latent Vulnerability Suppression, ICML 2020** [[Paper]](https://arxiv.org/abs/1908.04355?context=cs.LG) [[Tensorflow]](https://github.com/divyam3897/ANP_VS)
    - Divyam Madaan, Jinwoo Shin, Sung Ju Hwang
