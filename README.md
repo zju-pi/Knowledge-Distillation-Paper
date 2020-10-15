@@ -143,7 +143,13 @@ This resposity maintains a series of papers on knowledge distillation.
    
  - **The Limitations of Deep Learning in Adversarial Settings, Euro S&P 2016** [[Paper]](https://arxiv.org/abs/1511.07528?context=cs)
    - *Nicolas Papernot, Patrick McDaniel, Somesh Jha, Matt Fredrikson, Z. Berkay Celik, Ananthram Swami*
-
+   
+ - **Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks, S&P 2016** [[Paper]](https://arxiv.org/abs/1511.04508v1)
+   - *Nicolas Papernot, Patrick McDaniel, Xi Wu, Somesh Jha, Ananthram Swami*
+   
+ - **Universal adversarial perturbations, CVPR 2017** [[Paper]](https://arxiv.org/abs/1610.08401v1)
+   - *Seyed-Mohsen Moosavi-Dezfooli, Alhussein Fawzi, Omar Fawzi, Pascal Frossard*
+   
  - **Axiomatic Attribution for Deep Networks, ICML 2017** [[Paper]](https://arxiv.org/pdf/1703.01365.pdf) [[Code]](https://github.com/ankurtaly/Integrated-Gradients)
    - *Mukund Sundararajan, Ankur Taly, Qiqi Yan*
    
