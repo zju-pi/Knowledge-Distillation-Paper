@@ -150,6 +150,9 @@ This resposity maintains a series of papers on knowledge distillation.
  - **Universal adversarial perturbations, CVPR 2017** [[Paper]](https://arxiv.org/abs/1610.08401v1)
    - *Seyed-Mohsen Moosavi-Dezfooli, Alhussein Fawzi, Omar Fawzi, Pascal Frossard*
    
+ - **Towards Evaluating the Robustness of Neural Networks, S&P 2017** [[Paper]](https://arxiv.org/pdf/1608.04644.pdf)[[Code]](https://github.com/carlini/nn_robust_attacks)
+   - *Carlini Nicholas, Wagner David*
+   
  - **Axiomatic Attribution for Deep Networks, ICML 2017** [[Paper]](https://arxiv.org/pdf/1703.01365.pdf) [[Code]](https://github.com/ankurtaly/Integrated-Gradients)
    - *Mukund Sundararajan, Ankur Taly, Qiqi Yan*
    
