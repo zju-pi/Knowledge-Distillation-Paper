@@ -159,6 +159,9 @@ This resposity maintains a series of papers on knowledge distillation.
  - **Towards Deep Learning Models Resistant to Adversarial Attacks, ICLR 2018** [[Paper]](https://arxiv.org/pdf/1706.06083.pdf) [[Code1]](https://github.com/MadryLab/mnist_challenge) [[Code2]](https://github.com/MadryLab/cifar10_challenge)
    - *Madry, Aleksander，Makelov, Aleksandar，Schmidt, Ludwig，Tsipras, Dimitris，Vladu, Adrian*
    
+ - **Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples, ICML 2018** [[Paper]](https://arxiv.org/abs/1802.00420)[[Code]](https://github.com/anishathalye/obfuscated-gradients)
+   - *Anish Athalye, Nicholas Carlini, David Wagner*
+
  - **Adversarial Neural Pruning with Latent Vulnerability Suppression, ICML 2020** [[Paper]](https://arxiv.org/abs/1908.04355?context=cs.LG) [[Tensorflow]](https://github.com/divyam3897/ANP_VS)
    - Divyam Madaan, Jinwoo Shin, Sung Ju Hwang
 
