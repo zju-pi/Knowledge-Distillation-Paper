@@ -1,5 +1,14 @@
 # Knowledge-Distillation-Paper
-This resposity maintains a series of papers on knowledge distillation.
+This resposity maintains a series of papers, especially on knowledge distillation.
+
+- [Knowledge-Distillation-Paper](#knowledge-distillation-paper)
+  * [Feature Maps Distillation](#feature-maps-distillation)
+  * [Online Knowledge Distillation](#online-knowledge-distillation)
+  * [Data-Free Knowledge Distillation](#data-free-knowledge-distillation)
+  * [Adversarial Distillation](#adversarial-distillation)
+  * [Useful Resources](#useful-resources)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'></a></i></small>
 
 ## Feature Maps Distillation
 
@@ -9,17 +18,20 @@ This resposity maintains a series of papers on knowledge distillation.
 - **Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer, ICLR 2017** [[Paper]](https://arxiv.org/abs/1612.03928) [[PyTorch]](https://github.com/szagoruyko/attention-transfer)
   - *Sergey Zagoruyko, Nikos Komodakis.*
 
-- **Variational Information Distillation for Knowledge Transfer, CVPR 2019** [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ahn_Variational_Information_Distillation_for_Knowledge_Transfer_CVPR_2019_paper.pdf) 
-  - *Sungsoo Ahn, Shell Xu Hu, Andreas Damianou, Neil D. Lawrence, Zhenwen Dai.*
-
 - **Similarity-Preserving Knowledge Distillation, CVPR 2019** [[Paper]](https://arxiv.org/abs/1907.09682) 
   - *Frederick Tung, Greg Mori.*
+  
+- **Variational Information Distillation for Knowledge Transfer, CVPR 2019** [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ahn_Variational_Information_Distillation_for_Knowledge_Transfer_CVPR_2019_paper.pdf) 
+  - *Sungsoo Ahn, Shell Xu Hu, Andreas Damianou, Neil D. Lawrence, Zhenwen Dai.*
 
 - **Heterogeneous Knowledge Distillation using Information Flow Modeling, CVPR 2020** [[Paper]](https://arxiv.org/abs/2005.00727v1) [[Pytorch]](https://github.com/passalis/pkth)
   - *Nikolaos Passalis, Maria Tzelepi, Anastasios Tefas.*
 
 - **Matching Guided Distillation, ECCV 2020** [[Paper]](https://arxiv.org/abs/2008.09958) [[Pytorch]](https://github.com/KaiyuYue/mgd)
   - *Kaiyu Yue, Jiangfan Deng, Feng Zhou.*
+
+- **Cross-Layer Distillation with Semantic Calibration, AAAI 2021** [[Paper]](https://arxiv.org/abs/2012.03236) 
+  - *Defang Chen, Jian-Ping Mei, Yuan Zhang, Can Wang, Zhe Wang, Yan Feng, Chun Chen.*
 
 ## Online Knowledge Distillation
 
@@ -41,20 +53,8 @@ This resposity maintains a series of papers on knowledge distillation.
 - **Online Knowledge Distillation via Collaborative Learning, CVPR 2020** [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_Online_Knowledge_Distillation_via_Collaborative_Learning_CVPR_2020_paper.pdf) 
   - *Qiushan Guo, Xinjiang Wang, Yichao Wu, Zhipeng Yu, Ding Liang, Xiaolin Hu, Ping Luo.*
 
-- **Feature-map-level Online Adversarial Knowledge Distillation, ICML 2020** [[Paper]](https://arxiv.org/abs/2002.01775) 
-  - *Inseop Chung, SeongUk Park, Jangho Kim, Nojun Kwak.*
-
-- **Knowledge Transfer via Dense Cross-Layer Mutual-Distillation, ECCV 2020** [[Paper]](https://arxiv.org/abs/2008.07816) [[Torchnet]](https://github.com/sundw2014/DCM)
-  - *Anbang Yao, Dawei Sun.*
-
-- **AMLN: Adversarial-based Mutual Learning Network for Online Knowledge Distillation, ECCV 2020** [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570154.pdf) 
-  - *Xiaobing Zhang, Shijian Lu, HaigangGong, Zhipeng Luo, and MingLiu*
-  
-- **Online Ensemble Model Compression usingKnowledge Distillation, ECCV 2020** [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640018.pdf) 
-  - *Devesh Walawalkar, Zhiqiang Shen, and Marios Savvides*
-
-
-## Data-Free Knowledge Distillation (Maintained by [IsaccGuang](https://github.com/IsaccGuang))
+## Data-Free Knowledge Distillation 
+This section is maintained by [IsaccGuang](https://github.com/IsaccGuang).
 - **Data-Free Knowledge Distillation for Deep Neural Networks, NIPS 2017 workshop** [[Paper]](https://arxiv.org/abs/1710.07535v2) [[Tensorflow]](https://github.com/iRapha/replayed_distillation)
   - *Raphael Gontijo Lopes, Stefano Fenu, Thad Starner*
 
@@ -115,7 +115,9 @@ This resposity maintains a series of papers on knowledge distillation.
 - **DAC: Data-free Automatic Acceleration of Convolutional Networks, WACV 2019** [[Paper]](https://arxiv.org/abs/1812.08374) 
   - *Xin Li, Shuai Zhang, Bolan Jiang, Yingyong Qi, Mooi Choo Chuah, Ning Bi*
 
-## Adversarial \& Robust Distillation (Maintained by [Azendure](https://github.com/Azendure))
+## Adversarial Distillation 
+This section is maintained by [Azendure](https://github.com/Azendure).
+
 - **Sobolev Training for Neural Networks, NIPS 2017** [[Paper]](https://arxiv.org/abs/1706.04859v3) [[Tensorflow]](https://github.com/mcneela/Sobolev)
   - *Wojciech Marian Czarnecki, Simon Osindero, Max Jaderberg, Grzegorz Świrszcz, Razvan Pascanu*
 
@@ -165,18 +167,16 @@ This resposity maintains a series of papers on knowledge distillation.
  - **Adversarial Neural Pruning with Latent Vulnerability Suppression, ICML 2020** [[Paper]](https://arxiv.org/abs/1908.04355?context=cs.LG) [[Tensorflow]](https://github.com/divyam3897/ANP_VS)
    - Divyam Madaan, Jinwoo Shin, Sung Ju Hwang
 
-
-
 ## Useful Resources
 
 - **Statistics of acceptance rate for the main AI conferences** [[Link]](https://github.com/lixin4ever/Conference-Acceptance-Rate)
 - **AI conference deadlines** [[Link]](https://aideadlin.es/?sub=ML,CV,DM,SP)
 
 ### Accepted paper list
+- **ICML:** 2020 [[Link]](https://icml.cc/virtual/2020/papers.html?filter=keywords)
+- **ICLR:** 2020 [[Link]](https://openreview.net/group?id=ICLR.cc/2020/Conference)
 - **NIPS:** 2019 [[Link]](https://neurips.cc/Conferences/2019/Schedule?type=Poster)
 - **CVPR:** 2020 [[Link]](https://openaccess.thecvf.com/CVPR2020_search)
-- **ECCV:** 2020 [[Link]](https://www.ecva.net/papers.php)
-- **ICLR:** 2020 [[Link]](https://openreview.net/group?id=ICLR.cc/2020/Conference)
 - **ICCV:** 2019 [[Link]](https://openaccess.thecvf.com/ICCV2019)
-- **ICML:** 2020 [[Link]](https://icml.cc/virtual/2020/papers.html?filter=keywords)
+- **ECCV:** 2020 [[Link]](https://www.ecva.net/papers.php)
 
