@@ -31,7 +31,7 @@ This resposity maintains a series of papers, especially on knowledge distillatio
 - **Matching Guided Distillation, ECCV 2020** [[Paper]](https://arxiv.org/abs/2008.09958) [[Pytorch]](https://github.com/KaiyuYue/mgd)
   - *Kaiyu Yue, Jiangfan Deng, Feng Zhou.*
 
-- **Cross-Layer Distillation with Semantic Calibration, AAAI 2021** [[Paper]](https://arxiv.org/abs/2012.03236) [[Pytorch]](https://github.com/triomino/SemCKD)
+- **Cross-Layer Distillation with Semantic Calibration, AAAI 2021** [[Paper]](https://arxiv.org/abs/2012.03236) [[Pytorch]](https://github.com/DefangChen/SemCKD)
   - *Defang Chen, Jian-Ping Mei, Yuan Zhang, Can Wang, Zhe Wang, Yan Feng, Chun Chen.*
 
 ## Feature-Embedding Distillation
@@ -42,6 +42,15 @@ This resposity maintains a series of papers, especially on knowledge distillatio
 - **Knowledge Distillation via Instance Relationship Graph, CVPR 2019** [[Paper]](openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Knowledge_Distillation_via_Instance_Relationship_Graph_CVPR_2019_paper.pdf) [[Caffe]](https://github.com/yufanLIU/IRG)
   - *Yufan Liu, Jiajiong Cao, Bing Li, Chunfeng Yuan, Weiming Hu, Yangxi Li and Yunqiang Duan.*
   
+- **Relational Knowledge Distillation, CVPR 2019** [[Paper]](https://arxiv.org/abs/1904.05068) [[Pytorch]](https://github.com/lenscloth/RKD)
+  - *Wonpyo Park, Dongju Kim, Yan Lu, Minsu Cho.*
+  
+- **Correlation Congruence for Knowledge Distillation, ICCV 2019** [[Paper]](https://arxiv.org/abs/1904.05068)
+  - *Baoyun Peng, Xiao Jin, Jiaheng Liu, Shunfeng Zhou, Yichao Wu, Yu Liu, Dongsheng Li, Zhaoning Zhang.*
+  
+- **Contrastive Representation Distillation, ICLR 2020** [[Paper]](https://arxiv.org/abs/1910.10699) [[Pytorch]](https://github.com/HobbitLong/RepDistiller)
+  - *Yonglong Tian, Dilip Krishnan, Phillip Isola.*
+
 ## Online Knowledge Distillation
 
 - **Deep Mutual Learning, CVPR 2018** [[Paper]](https://arxiv.org/abs/1804.03235) [[TensorFlow]](https://github.com/YingZhangDUT/Deep-Mutual-Learning)
