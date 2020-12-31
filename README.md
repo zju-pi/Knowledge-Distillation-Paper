@@ -2,7 +2,8 @@
 This resposity maintains a series of papers, especially on knowledge distillation.
 
 - [Knowledge-Distillation-Paper](#knowledge-distillation-paper)
-  * [Feature Maps Distillation](#feature-maps-distillation)
+  * [Feature-Map Distillation](#feature-map-distillation)
+  * [Feature-Embedding Distillation](#feature-embedding-distillation)
   * [Online Knowledge Distillation](#online-knowledge-distillation)
   * [Data-Free Knowledge Distillation](#data-free-knowledge-distillation)
   * [Adversarial Distillation](#adversarial-distillation)
@@ -10,7 +11,7 @@ This resposity maintains a series of papers, especially on knowledge distillatio
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'></a></i></small>
 
-## Feature Maps Distillation
+## Feature-Map Distillation
 
 - **FitNets: Hints for Thin Deep Nets, ICLR 2015** [[Paper]](https://arxiv.org/abs/1412.6550) [[Theano]](https://github.com/adri-romsor/FitNets)
   - *Adriana Romero, Nicolas Ballas, Samira Ebrahimi Kahou, Antoine Chassang, Carlo Gatta, Yoshua Bengio.*
@@ -30,9 +31,17 @@ This resposity maintains a series of papers, especially on knowledge distillatio
 - **Matching Guided Distillation, ECCV 2020** [[Paper]](https://arxiv.org/abs/2008.09958) [[Pytorch]](https://github.com/KaiyuYue/mgd)
   - *Kaiyu Yue, Jiangfan Deng, Feng Zhou.*
 
-- **Cross-Layer Distillation with Semantic Calibration, AAAI 2021** [[Paper]](https://arxiv.org/abs/2012.03236) 
+- **Cross-Layer Distillation with Semantic Calibration, AAAI 2021** [[Paper]](https://arxiv.org/abs/2012.03236) [[Pytorch]](https://github.com/triomino/SemCKD)
   - *Defang Chen, Jian-Ping Mei, Yuan Zhang, Can Wang, Zhe Wang, Yan Feng, Chun Chen.*
 
+## Feature-Embedding Distillation
+
+- **Learning Deep Representations with Probabilistic Knowledge Transfer, ECCV 2018** [[Paper]](https://arxiv.org/abs/1803.10837) [[Pytorch]](https://github.com/passalis/probabilistic_kt)
+  - *Nikolaos Passalis, Anastasios Tefas.*
+  
+- **Knowledge Distillation via Instance Relationship Graph, CVPR 2019** [[Paper]](openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Knowledge_Distillation_via_Instance_Relationship_Graph_CVPR_2019_paper.pdf) [[Caffe]](https://github.com/yufanLIU/IRG)
+  - *Yufan Liu, Jiajiong Cao, Bing Li, Chunfeng Yuan, Weiming Hu, Yangxi Li and Yunqiang Duan.*
+  
 ## Online Knowledge Distillation
 
 - **Deep Mutual Learning, CVPR 2018** [[Paper]](https://arxiv.org/abs/1804.03235) [[TensorFlow]](https://github.com/YingZhangDUT/Deep-Mutual-Learning)
