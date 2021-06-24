@@ -73,12 +73,22 @@ This resposity maintains a series of papers, especially on knowledge distillatio
 
 ## Multi-Teacher Knowledge Distillation
 
+### Homogenous Label Space
 - **Learning from Multiple Teacher Networks, KDD 2017** [[Paper]](https://dl.acm.org/doi/10.1145/3097983.3098135) 
   - *Shan You, Chang Xu, Chao Xu, Dacheng Tao.*
 
 - **Agree to Disagree: Adaptive Ensemble Knowledge Distillation in Gradient Space, NIPS 2020** [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/91c77393975889bd08f301c9e13a44b7-Abstract.html) [[Pytorch]](https://github.com/AnTuo1998/AE-KD)
   - *Shangchen Du, Shan You, Xiaojie Li, Jianlong Wu, Fei Wang, Chen Qian, Changshui Zhang.*
-  
+
+### Heterogenous Label Space
+
+- **Amalgamating Knowledge towards Comprehensive Classification, AAAI 2019** [[Paper]](https://arxiv.org/abs/1811.02796v2) [[Pytorch]](https://github.com/zju-vipa/KamalEngine)
+  - *Chengchao Shen, Xinchao Wang, Jie Song, Li Sun, Mingli Song.*
+
+- **Unifying Heterogeneous Classifiers with Distillation, CVPR 2019** [[Paper]](https://arxiv.org/abs/1904.06062) 
+  - *Jayakorn Vongkulbhisal, Phongtharin Vinayavekhin, Marco Visentini-Scarzanella.*
+
+
 ## Data-Free Knowledge Distillation 
 This section is maintained by [IsaccGuang](https://github.com/IsaccGuang).
 - **Data-Free Knowledge Distillation for Deep Neural Networks, NIPS 2017 workshop** [[Paper]](https://arxiv.org/abs/1710.07535v2) [[Tensorflow]](https://github.com/iRapha/replayed_distillation)
