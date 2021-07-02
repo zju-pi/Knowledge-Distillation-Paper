@@ -11,6 +11,17 @@ This resposity maintains a series of papers, especially on knowledge distillatio
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'></a></i></small>
 
+## Early Works on Knowledge Distillation
+
+- **Model Compression, KDD 2006** [[Paper]](https://dl.acm.org/doi/abs/10.1145/1150402.1150464)
+  - *Cristian Buciluǎ, Rich Caruana, Alexandru Niculescu-Mizil.*
+  
+- **Do Deep Nets Really Need to be Deep?, NIPS 2014** [[Paper]](https://arxiv.org/abs/1312.6184)
+  - *Lei Jimmy Ba, Rich Caruana.*
+ 
+- **Distilling the Knowledge in a Neural Network, NIPS-workshop 2014** [[Paper]](https://arxiv.org/abs/1503.02531)
+  - *Geoffrey Hinton, Oriol Vinyals, Jeff Dean.*
+  
 ## Feature-Map Distillation
 
 - **FitNets: Hints for Thin Deep Nets, ICLR 2015** [[Paper]](https://arxiv.org/abs/1412.6550) [[Theano]](https://github.com/adri-romsor/FitNets)
