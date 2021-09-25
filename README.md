@@ -101,9 +101,14 @@ This resposity maintains a series of papers, especially on knowledge distillatio
 
 
 ## Data-Free Knowledge Distillation 
-This section is maintained by [IsaccGuang](https://github.com/IsaccGuang).
-- **Data-Free Knowledge Distillation for Deep Neural Networks, NIPS 2017 workshop** [[Paper]](https://arxiv.org/abs/1710.07535v2) [[Tensorflow]](https://github.com/iRapha/replayed_distillation)
+
+- **Data-Free Knowledge Distillation for Deep Neural Networks, NIPS-workshop 2017** [[Paper]](https://arxiv.org/abs/1710.07535v2) [[Tensorflow]](https://github.com/iRapha/replayed_distillation)
   - *Raphael Gontijo Lopes, Stefano Fenu, Thad Starner*
+
+- **DAFL: Data-Free Learning of Student Networks, ICCV 2019** [[Paper]](https://arxiv.org/abs/1904.01186) [[PyTorch]](https://github.com/huawei-noah/Efficient-Computing/tree/master/Data-Efficient-Model-Compression)
+  - *Hanting Chen, Yunhe Wang, Chang Xu, Zhaohui Yang, Chuanjian Liu, Boxin Shi, Chunjing Xu, Chao Xu, Qi Tian*
+
+This section is maintained by [IsaccGuang](https://github.com/IsaccGuang).
 
 - **Zero-shot Knowledge Transfer via Adversarial Belief Matching, NIPS 2019** [[Paper]](https://arxiv.org/abs/1905.09768v4) [[Pytorch]](https://github.com/polo5/ZeroShotKnowledgeTransfer) 
   - *Paul Micaelli, Amos Storkey*
@@ -116,9 +121,6 @@ This section is maintained by [IsaccGuang](https://github.com/IsaccGuang).
 
 - **Dream Distillation: A Data-Independent Model Compression Framework, ICML 2019 Workshop** [[Paper]](https://arxiv.org/abs/1905.07072v1) 
   - *Kartikeya Bhardwaj, Naveen Suda, Radu Marculescu*
-
-- **DAFL: Data-Free Learning of Student Networks, ICCV 2019** [[Paper]](https://arxiv.org/abs/1904.01186) [[PyTorch]](https://github.com/huawei-noah/Data-Efficient-Model-Compression/tree/master/DAFL)
-  - *Hanting Chen, Yunhe Wang, Chang Xu, Zhaohui Yang, Chuanjian Liu, Boxin Shi, Chunjing Xu, Chao Xu, Qi Tian*
 
 - **Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion, CVPR 2020** [[Paper]](https://arxiv.org/abs/1912.08795v2) [[Pytorch]](https://github.com/NVlabs/DeepInversion) 
   - *Hongxu Yin, Pavlo Molchanov, Zhizhong Li, Jose M. Alvarez, Arun Mallya, Derek Hoiem, Niraj K. Jha, Jan Kautz*
