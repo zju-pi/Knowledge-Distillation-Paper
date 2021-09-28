@@ -108,7 +108,8 @@ This resposity maintains a series of papers, especially on knowledge distillatio
 - **DAFL: Data-Free Learning of Student Networks, ICCV 2019** [[Paper]](https://arxiv.org/abs/1904.01186) [[PyTorch]](https://github.com/huawei-noah/Efficient-Computing/tree/master/Data-Efficient-Model-Compression)
   - *Hanting Chen, Yunhe Wang, Chang Xu, Zhaohui Yang, Chuanjian Liu, Boxin Shi, Chunjing Xu, Chao Xu, Qi Tian*
 
-This section is maintained by [IsaccGuang](https://github.com/IsaccGuang).
+- **Zero-Shot Knowledge Distillation in Deep Networks, ICML 2019** [[Paper]](https://arxiv.org/abs/1905.08114v1) [[Tensorflow]](https://github.com/vcl-iisc/ZSKD) 
+  - *Gaurav Kumar Nayak, Konda Reddy Mopuri, Vaisakh Shaj, R. Venkatesh Babu, Anirban Chakraborty*
 
 - **Zero-shot Knowledge Transfer via Adversarial Belief Matching, NIPS 2019** [[Paper]](https://arxiv.org/abs/1905.09768v4) [[Pytorch]](https://github.com/polo5/ZeroShotKnowledgeTransfer) 
   - *Paul Micaelli, Amos Storkey*
@@ -116,14 +117,13 @@ This section is maintained by [IsaccGuang](https://github.com/IsaccGuang).
 - **Knowledge Extraction with No Observable Data, NIPS 2019** [[Paper]](http://papers.nips.cc/paper/8538-knowledge-extraction-with-no-observable-data) [[Pytorch]](https://github.com/snudatalab/KegNet) 
   - *Jaemin Yoo, Minyong Cho, Taebum Kim, U Kang*
 
-- **Zero-Shot Knowledge Distillation in Deep Networks, ICML 2019** [[Paper]](https://arxiv.org/abs/1905.08114v1) [[Tensorflow]](https://github.com/vcl-iisc/ZSKD) 
-  - *Gaurav Kumar Nayak, Konda Reddy Mopuri, Vaisakh Shaj, R. Venkatesh Babu, Anirban Chakraborty*
-
-- **Dream Distillation: A Data-Independent Model Compression Framework, ICML 2019 Workshop** [[Paper]](https://arxiv.org/abs/1905.07072v1) 
+- **Dream Distillation: A Data-Independent Model Compression Framework, ICML-workshop 2019** [[Paper]](https://arxiv.org/abs/1905.07072v1) 
   - *Kartikeya Bhardwaj, Naveen Suda, Radu Marculescu*
 
 - **Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion, CVPR 2020** [[Paper]](https://arxiv.org/abs/1912.08795v2) [[Pytorch]](https://github.com/NVlabs/DeepInversion) 
   - *Hongxu Yin, Pavlo Molchanov, Zhizhong Li, Jose M. Alvarez, Arun Mallya, Derek Hoiem, Niraj K. Jha, Jan Kautz*
+
+This section is maintained by [IsaccGuang](https://github.com/IsaccGuang).
 
 - **The Knowledge Within: Methods for Data-Free Model Compression, CVPR 2020** [[Paper]](https://arxiv.org/abs/1912.01274) 
   - *Matan Haroush, Itay Hubara, Elad Hoffer, Daniel Soudry*
