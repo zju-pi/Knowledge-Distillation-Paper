@@ -62,6 +62,9 @@ This resposity maintains a series of papers, especially on knowledge distillatio
 - **Contrastive Representation Distillation, ICLR 2020** [[Paper]](https://arxiv.org/abs/1910.10699) [[Pytorch]](https://github.com/HobbitLong/RepDistiller)
   - *Yonglong Tian, Dilip Krishnan, Phillip Isola.*
 
+- **Distilling Holistic Knowledge with Graph Neural Networks, ICCV 2021** [[Paper]](https://arxiv.org/abs/2108.05507) [[Pytorch]](https://github.com/wyc-ruiker/HKD)
+  - *Sheng Zhou, Yucheng Wang, Defang Chen, Jiawei Chen, Xin Wang, Can Wang, Jiajun Bu.*
+
 ## Online Knowledge Distillation
 
 - **Deep Mutual Learning, CVPR 2018** [[Paper]](https://arxiv.org/abs/1804.03235) [[TensorFlow]](https://github.com/YingZhangDUT/Deep-Mutual-Learning)
@@ -120,19 +123,19 @@ This resposity maintains a series of papers, especially on knowledge distillatio
 - **Dream Distillation: A Data-Independent Model Compression Framework, ICML-workshop 2019** [[Paper]](https://arxiv.org/abs/1905.07072v1) 
   - *Kartikeya Bhardwaj, Naveen Suda, Radu Marculescu*
 
+- **DeGAN : Data-Enriching GAN for Retrieving Representative Samples from a Trained Classifier, AAAI 2020** [[Paper]](https://arxiv.org/abs/1912.11960v1) [[Pytorch]](https://github.com/vcl-iisc/DeGAN) 
+  - *Sravanti Addepalli, Gaurav Kumar Nayak, Anirban Chakraborty, R. Venkatesh Babu*
+
 - **Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion, CVPR 2020** [[Paper]](https://arxiv.org/abs/1912.08795v2) [[Pytorch]](https://github.com/NVlabs/DeepInversion) 
   - *Hongxu Yin, Pavlo Molchanov, Zhizhong Li, Jose M. Alvarez, Arun Mallya, Derek Hoiem, Niraj K. Jha, Jan Kautz*
-
-This section is maintained by [IsaccGuang](https://github.com/IsaccGuang).
 
 - **The Knowledge Within: Methods for Data-Free Model Compression, CVPR 2020** [[Paper]](https://arxiv.org/abs/1912.01274) 
   - *Matan Haroush, Itay Hubara, Elad Hoffer, Daniel Soudry*
 
+This section is maintained by [IsaccGuang](https://github.com/IsaccGuang).
+
 - **Data-Free Knowledge Amalgamation via Group-Stack Dual-GAN, CVPR 2020** [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_Data-Free_Knowledge_Amalgamation_via_Group-Stack_Dual-GAN_CVPR_2020_paper.pdf)  [[Supp]](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Ye_Data-Free_Knowledge_Amalgamation_CVPR_2020_supplemental.pdf) 
   - *Jingwen Ye, Yixin Ji, Xinchao Wang, Xin Gao, Mingli Song*
-
-- **DeGAN : Data-Enriching GAN for Retrieving Representative Samples from a Trained Classifier, AAAI 2020** [[Paper]](https://arxiv.org/abs/1912.11960v1) [[Pytorch]](https://github.com/vcl-iisc/DeGAN) 
-  - *Sravanti Addepalli, Gaurav Kumar Nayak, Anirban Chakraborty, R. Venkatesh Babu*
 
 - **Generative Low-bitwidth Data Free Quantization, ECCV 2020** [[Paper]](https://arxiv.org/abs/2003.03603?context=cs) [[Pytorch]](https://github.com/xushoukai/GDFQ) 
   - *Shoukai Xu, Haokun Li, Bohan Zhuang, Jing Liu, Jiezhang Cao, Chuangrun Liang, Mingkui Tan*
