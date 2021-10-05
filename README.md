@@ -91,6 +91,12 @@ This resposity maintains a series of papers, especially on knowledge distillatio
 - **Learning from Multiple Teacher Networks, KDD 2017** [[Paper]](https://dl.acm.org/doi/10.1145/3097983.3098135) 
   - *Shan You, Chang Xu, Chao Xu, Dacheng Tao.*
 
+- **Multi-teacher Knowledge Distillation for Compressed Video Action Recognition on Deep Neural Networks, ICASSP 2019** [[Paper]](https://ieeexplore.ieee.org/document/8682450) 
+  - *Meng-Chieh Wu, Ching-Te Chiu, Kun-Hsuan Wu.*
+
+- **Adaptive Knowledge Distillation Based on Entropy, ICASSP 2020** [[Paper]](https://ieeexplore.ieee.org/document/9054698) 
+  - *Kisoo Kwon, Hwidong Na, Hoshik Lee, Nam Soo Kim.*
+
 - **Agree to Disagree: Adaptive Ensemble Knowledge Distillation in Gradient Space, NIPS 2020** [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/91c77393975889bd08f301c9e13a44b7-Abstract.html) [[Pytorch]](https://github.com/AnTuo1998/AE-KD)
   - *Shangchen Du, Shan You, Xiaojie Li, Jianlong Wu, Fei Wang, Chen Qian, Changshui Zhang.*
 
