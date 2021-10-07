@@ -94,11 +94,11 @@ This resposity maintains a series of papers, especially on knowledge distillatio
 - **Multi-teacher Knowledge Distillation for Compressed Video Action Recognition on Deep Neural Networks, ICASSP 2019** [[Paper]](https://ieeexplore.ieee.org/document/8682450) 
   - *Meng-Chieh Wu, Ching-Te Chiu, Kun-Hsuan Wu.*
 
-- **Adaptive Knowledge Distillation Based on Entropy, ICASSP 2020** [[Paper]](https://ieeexplore.ieee.org/document/9054698) 
-  - *Kisoo Kwon, Hwidong Na, Hoshik Lee, Nam Soo Kim.*
-
 - **Agree to Disagree: Adaptive Ensemble Knowledge Distillation in Gradient Space, NIPS 2020** [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/91c77393975889bd08f301c9e13a44b7-Abstract.html) [[Pytorch]](https://github.com/AnTuo1998/AE-KD)
   - *Shangchen Du, Shan You, Xiaojie Li, Jianlong Wu, Fei Wang, Chen Qian, Changshui Zhang.*
+
+- **Adaptive Knowledge Distillation Based on Entropy, ICASSP 2020** [[Paper]](https://ieeexplore.ieee.org/document/9054698) 
+  - *Kisoo Kwon, Hwidong Na, Hoshik Lee, Nam Soo Kim.*
 
 ### Heterogenous Label Space
 
@@ -132,6 +132,9 @@ This resposity maintains a series of papers, especially on knowledge distillatio
 - **DeGAN : Data-Enriching GAN for Retrieving Representative Samples from a Trained Classifier, AAAI 2020** [[Paper]](https://arxiv.org/abs/1912.11960v1) [[Pytorch]](https://github.com/vcl-iisc/DeGAN) 
   - *Sravanti Addepalli, Gaurav Kumar Nayak, Anirban Chakraborty, R. Venkatesh Babu*
 
+- **This dataset does not exist: training models from generated images, ICASSP 2020** [[Paper]](https://ieeexplore.ieee.org/document/9053146) 
+  - *Victor Besnier, Himalaya Jain, Andrei Bursuc, Matthieu Cord, Patrick Pérez*
+
 - **Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion, CVPR 2020** [[Paper]](https://arxiv.org/abs/1912.08795v2) [[Pytorch]](https://github.com/NVlabs/DeepInversion) 
   - *Hongxu Yin, Pavlo Molchanov, Zhizhong Li, Jose M. Alvarez, Arun Mallya, Derek Hoiem, Niraj K. Jha, Jan Kautz*
 
@@ -141,6 +144,12 @@ This resposity maintains a series of papers, especially on knowledge distillatio
 - **Data-Free Adversarial Distillation, ArXiv 2019.12** [[Paper]](https://arxiv.org/abs/1912.11006) [[Pytorch]](https://github.com/VainF/Data-Free-Adversarial-Distillation) 
   - *Gongfan Fang, Jie Song, Chengchao Shen, Xinchao Wang, Da Chen, Mingli Song*
   - Similar to `NIPS-2019 Zero-shot Knowledge Transfer via Adversarial Belief Matching`
+
+- **Data-Free Knowledge Distillation with Soft Targeted Transfer Set Synthesis, AAAI 2021** [[Paper]](https://arxiv.org/abs/2104.04868) 
+  - *Zi Wang*
+
+- **Learning Student Networks in the Wild, CVPR 2021** [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Learning_Student_Networks_in_the_Wild_CVPR_2021_paper.html) [[Pytorch]](https://github.com/huawei-noah/Efficient-Computing/tree/master/Data-Efficient-Model-Compression/DFND) 
+  - *Hanting Chen, Tianyu Guo, Chang Xu, Wenshuo Li, Chunjing Xu, Chao Xu, Yunhe Wang*
 
 - **Contrastive Model Inversion for Data-Free Knowledge Distillation, IJCAI 2021** [[Paper]](https://arxiv.org/abs/2105.08584) [[Pytorch]](https://github.com/zju-vipa/DataFree) 
   - *Gongfan Fang, Jie Song, Xinchao Wang, Chengchao Shen, Xingen Wang, Mingli Song*
@@ -153,8 +162,6 @@ This section is maintained by [IsaccGuang](https://github.com/IsaccGuang).
 - **Generative Low-bitwidth Data Free Quantization, ECCV 2020** [[Paper]](https://arxiv.org/abs/2003.03603?context=cs) [[Pytorch]](https://github.com/xushoukai/GDFQ) 
   - *Shoukai Xu, Haokun Li, Bohan Zhuang, Jing Liu, Jiezhang Cao, Chuangrun Liang, Mingkui Tan*
 
-- **This dataset does not exist: training models from generated images, ICASSP 2020** [[Paper]](https://arxiv.org/abs/1911.02888) 
-  - *Victor Besnier, Himalaya Jain, Andrei Bursuc, Matthieu Cord, Patrick Pérez*
 
 - **Billion-scale semi-supervised learning for image classification, arXiv 2019.05** [[Paper]](https://arxiv.org/abs/1905.00546) [[Pytorch]](https://github.com/leaderj1001/Billion-scale-semi-supervised-learning) 
   - *I. Zeki Yalniz, Hervé Jégou, Kan Chen, Manohar Paluri, Dhruv Mahajan*
