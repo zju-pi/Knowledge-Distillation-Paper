@@ -132,9 +132,6 @@ This resposity maintains a series of papers, especially on knowledge distillatio
 - **DeGAN : Data-Enriching GAN for Retrieving Representative Samples from a Trained Classifier, AAAI 2020** [[Paper]](https://arxiv.org/abs/1912.11960v1) [[Pytorch]](https://github.com/vcl-iisc/DeGAN) 
   - *Sravanti Addepalli, Gaurav Kumar Nayak, Anirban Chakraborty, R. Venkatesh Babu*
 
-- **This dataset does not exist: training models from generated images, ICASSP 2020** [[Paper]](https://ieeexplore.ieee.org/document/9053146) 
-  - *Victor Besnier, Himalaya Jain, Andrei Bursuc, Matthieu Cord, Patrick Pérez*
-
 - **Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion, CVPR 2020** [[Paper]](https://arxiv.org/abs/1912.08795v2) [[Pytorch]](https://github.com/NVlabs/DeepInversion) 
   - *Hongxu Yin, Pavlo Molchanov, Zhizhong Li, Jose M. Alvarez, Arun Mallya, Derek Hoiem, Niraj K. Jha, Jan Kautz*
 
@@ -161,7 +158,6 @@ This section is maintained by [IsaccGuang](https://github.com/IsaccGuang).
 
 - **Generative Low-bitwidth Data Free Quantization, ECCV 2020** [[Paper]](https://arxiv.org/abs/2003.03603?context=cs) [[Pytorch]](https://github.com/xushoukai/GDFQ) 
   - *Shoukai Xu, Haokun Li, Bohan Zhuang, Jing Liu, Jiezhang Cao, Chuangrun Liang, Mingkui Tan*
-
 
 - **Billion-scale semi-supervised learning for image classification, arXiv 2019.05** [[Paper]](https://arxiv.org/abs/1905.00546) [[Pytorch]](https://github.com/leaderj1001/Billion-scale-semi-supervised-learning) 
   - *I. Zeki Yalniz, Hervé Jégou, Kan Chen, Manohar Paluri, Dhruv Mahajan*
