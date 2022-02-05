@@ -100,6 +100,9 @@ This resposity maintains a series of papers, especially on knowledge distillatio
 - **Adaptive Knowledge Distillation Based on Entropy, ICASSP 2020** [[Paper]](https://ieeexplore.ieee.org/document/9054698) 
   - *Kisoo Kwon, Hwidong Na, Hoshik Lee, Nam Soo Kim.*
 
+- **Confidence-Aware Multi-Teacher Knowledge Distillation, ICASSP 2022** [[Paper]](https://arxiv.org/abs/2201.00007v1) [[Pytorch]](https://github.com/Rorozhl/CA-MKD)
+  - *Hailin Zhang, Defang Chen, Can Wang.*
+
 ### Heterogenous Label Space
 
 - **Amalgamating Knowledge towards Comprehensive Classification, AAAI 2019** [[Paper]](https://arxiv.org/abs/1811.02796v2) [[Pytorch]](https://github.com/zju-vipa/KamalEngine)
