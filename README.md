@@ -87,6 +87,9 @@ This resposity maintains a series of papers, especially on knowledge distillatio
 
 ### Homogenous Label Space
 
+- **Distilling knowledge from ensembles of neural networks for speech recognition, INTERSPEECH 2016** [[Paper]](http://www-clmc.usc.edu/~chebotar/pub/chebotar_interspeech16.pdf) 
+  - *Austin Waters, Yevgen Chebotar.*
+
 - **Efficient Knowledge Distillation from an Ensemble of Teachers, INTERSPEECH 2017** [[Paper]](https://isca-speech.org/archive_v0/Interspeech_2017/pdfs/0614.PDF) 
   - *Takashi Fukuda, Masayuki Suzuki, Gakuto Kurata, Samuel Thomas, Jia Cui, Bhuvana Ramabhadran.*
 
