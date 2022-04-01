@@ -86,6 +86,10 @@ This resposity maintains a series of papers, especially on knowledge distillatio
 ## Multi-Teacher Knowledge Distillation
 
 ### Homogenous Label Space
+
+- **Efficient Knowledge Distillation from an Ensemble of Teachers, INTERSPEECH 2017** [[Paper]](https://isca-speech.org/archive_v0/Interspeech_2017/pdfs/0614.PDF) 
+  - *Takashi Fukuda, Masayuki Suzuki, Gakuto Kurata, Samuel Thomas, Jia Cui, Bhuvana Ramabhadran.*
+
 - **Learning from Multiple Teacher Networks, KDD 2017** [[Paper]](https://dl.acm.org/doi/10.1145/3097983.3098135) 
   - *Shan You, Chang Xu, Chao Xu, Dacheng Tao.*
 
@@ -97,6 +101,12 @@ This resposity maintains a series of papers, especially on knowledge distillatio
 
 - **Adaptive Knowledge Distillation Based on Entropy, ICASSP 2020** [[Paper]](https://ieeexplore.ieee.org/document/9054698) 
   - *Kisoo Kwon, Hwidong Na, Hoshik Lee, Nam Soo Kim.*
+
+- **Reinforced Multi-Teacher Selection for Knowledge Distillation, AAAI 2021** [[Paper]](https://arxiv.org/abs/2012.06048v2) 
+  - *Fei Yuan, Linjun Shou, Jian Pei, Wutao Lin, Ming Gong, Yan Fu, Daxin Jiang*
+
+- **Adaptive Distillation: Aggregating Knowledge from Multiple Paths for Efficient Distillation, BMVC 2021** [[Paper]](https://arxiv.org/abs/2110.09674v2) [[Pytorch]](https://github.com/wyze-AI/AdaptiveDistillation)
+  - *Sumanth Chennupati, Mohammad Mahdi Kamani, Zhongwei Cheng, Lin Chen*
 
 - **Confidence-Aware Multi-Teacher Knowledge Distillation, ICASSP 2022** [[Paper]](https://arxiv.org/abs/2201.00007v1) [[Pytorch]](https://github.com/Rorozhl/CA-MKD)
   - *Hailin Zhang, Defang Chen, Can Wang.*
