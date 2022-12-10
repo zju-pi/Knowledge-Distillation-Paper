@@ -4,8 +4,8 @@ This resposity maintains a series of papers, especially on knowledge distillatio
 - [Feature Distillation](#feature-distillation)
 - [Online Knowledge Distillation](#online-knowledge-distillation)
 - [Multi-Teacher Knowledge Distillation](#multi-teacher-knowledge-distillation)
+- [Diffusion Distillation](#diffusion-distillation)
 - [Data-Free Knowledge Distillation](#data-free-knowledge-distillation)
-- [Adversarial Distillation](#adversarial-distillation)
 - [Useful Resources](#useful-resources)
 
 
@@ -54,7 +54,7 @@ This resposity maintains a series of papers, especially on knowledge distillatio
 - **Matching Guided Distillation, ECCV 2020** [[Paper]](https://arxiv.org/abs/2008.09958) [[Pytorch]](https://github.com/KaiyuYue/mgd)
   - *Kaiyu Yue, Jiangfan Deng, Feng Zhou.*
 
-- **Cross-Layer Distillation with Semantic Calibration, AAAI 2021** [[Paper]](https://arxiv.org/abs/2012.03236) [[Pytorch]](https://github.com/DefangChen/SemCKD)
+- **Cross-Layer Distillation with Semantic Calibration, AAAI 2021** [[Paper]](https://arxiv.org/abs/2012.03236) [[Pytorch]](https://github.com/DefangChen/SemCKD)[[TKDE]](https://ieeexplore.ieee.org/document/9767633)
   - *Defang Chen, Jian-Ping Mei, Yuan Zhang, Can Wang, Zhe Wang, Yan Feng, Chun Chen.*
   
 - **Distilling Holistic Knowledge with Graph Neural Networks, ICCV 2021** [[Paper]](https://arxiv.org/abs/2108.05507) [[Pytorch]](https://github.com/wyc-ruiker/HKD)
@@ -114,14 +114,10 @@ This resposity maintains a series of papers, especially on knowledge distillatio
 - **Confidence-Aware Multi-Teacher Knowledge Distillation, ICASSP 2022** [[Paper]](https://arxiv.org/abs/2201.00007v1) [[Pytorch]](https://github.com/Rorozhl/CA-MKD)
   - *Hailin Zhang, Defang Chen, Can Wang.*
 
-### Heterogenous Label Space
+## Diffusion Distillation
 
-- **Amalgamating Knowledge towards Comprehensive Classification, AAAI 2019** [[Paper]](https://arxiv.org/abs/1811.02796v2) [[Pytorch]](https://github.com/zju-vipa/KamalEngine)
-  - *Chengchao Shen, Xinchao Wang, Jie Song, Li Sun, Mingli Song.*
-
-- **Unifying Heterogeneous Classifiers with Distillation, CVPR 2019** [[Paper]](https://arxiv.org/abs/1904.06062) 
-  - *Jayakorn Vongkulbhisal, Phongtharin Vinayavekhin, Marco Visentini-Scarzanella.*
-
+- **Accelerating Diffusion Sampling with Classifier-based Feature Distillation, Arxiv 2022.11 ** [[Paper]](https://arxiv.org/abs/2211.12039)
+  - *Wujie Sun, Defang Chen, Can Wang, Deshi Ye, Yan Feng, Chun Chen*
 
 ## Data-Free Knowledge Distillation 
 
@@ -165,85 +161,6 @@ This resposity maintains a series of papers, especially on knowledge distillatio
 - **Contrastive Model Inversion for Data-Free Knowledge Distillation, IJCAI 2021** [[Paper]](https://arxiv.org/abs/2105.08584) [[Pytorch]](https://github.com/zju-vipa/DataFree) 
   - *Gongfan Fang, Jie Song, Xinchao Wang, Chengchao Shen, Xingen Wang, Mingli Song*
 
-This section is maintained by [IsaccGuang](https://github.com/IsaccGuang).
-
-- **Data-Free Knowledge Amalgamation via Group-Stack Dual-GAN, CVPR 2020** [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_Data-Free_Knowledge_Amalgamation_via_Group-Stack_Dual-GAN_CVPR_2020_paper.pdf)  [[Supp]](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Ye_Data-Free_Knowledge_Amalgamation_CVPR_2020_supplemental.pdf) 
-  - *Jingwen Ye, Yixin Ji, Xinchao Wang, Xin Gao, Mingli Song*
-
-- **Generative Low-bitwidth Data Free Quantization, ECCV 2020** [[Paper]](https://arxiv.org/abs/2003.03603?context=cs) [[Pytorch]](https://github.com/xushoukai/GDFQ) 
-  - *Shoukai Xu, Haokun Li, Bohan Zhuang, Jing Liu, Jiezhang Cao, Chuangrun Liang, Mingkui Tan*
-
-- **Billion-scale semi-supervised learning for image classification, arXiv 2019.05** [[Paper]](https://arxiv.org/abs/1905.00546) [[Pytorch]](https://github.com/leaderj1001/Billion-scale-semi-supervised-learning) 
-  - *I. Zeki Yalniz, Hervé Jégou, Kan Chen, Manohar Paluri, Dhruv Mahajan*
-
-- **Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data, arXiv 2019.12** [[Paper]](https://arxiv.org/abs/1912.07768) [[Pytorch]](https://github.com/uber-research/GTN) 
-  - *Felipe Petroski Such, Aditya Rawal, Joel Lehman, Kenneth O. Stanley, Jeff Clune*
-
-- **MAZE: Data-Free Model Stealing Attack Using Zeroth-Order Gradient Estimation, arXiv 2020.05** [[Paper]](https://arxiv.org/abs/2005.03161) 
-  - *Sanjay Kariyappa, Atul Prakash, Moinuddin Qureshi*
-
-### Other Data-free Model Compression
-
-- **Data-free Parameter Pruning for Deep Neural Networks, BMVC 2015** [[Paper]](https://arxiv.org/abs/1507.06149v1) 
-  - *Suraj Srinivas, R. Venkatesh Babu*
-
-- **Data-Free Quantization Through Weight Equalization and Bias Correction, ICCV 2019** [[Paper]](https://arxiv.org/abs/1906.04721v3) [[Pytorch1]](https://github.com/jakc4103/DFQ) [[Pytorch2]](https://github.com/ANSHUMAN87/Bias-Correction) 
-  - *Markus Nagel, Mart van Baalen, Tijmen Blankevoort, Max Welling*
-
-- **DAC: Data-free Automatic Acceleration of Convolutional Networks, WACV 2019** [[Paper]](https://arxiv.org/abs/1812.08374) 
-  - *Xin Li, Shuai Zhang, Bolan Jiang, Yingyong Qi, Mooi Choo Chuah, Ning Bi*
-
-## Adversarial Distillation 
-This section is maintained by [Azendure](https://github.com/Azendure).
-
-- **Sobolev Training for Neural Networks, NIPS 2017** [[Paper]](https://arxiv.org/abs/1706.04859v3) [[Tensorflow]](https://github.com/mcneela/Sobolev)
-  - *Wojciech Marian Czarnecki, Simon Osindero, Max Jaderberg, Grzegorz Świrszcz, Razvan Pascanu*
-
-- **Knowledge Transfer with Jacobian Matching, ICML 2018** [[Paper]](https://arxiv.org/abs/1803.00443?context=cs.CV)
-  - *Suraj Srinivas, Francois Fleuret*
-
-- **On the Connection Between Adversarial Robustness and Saliency Map Interpretability, ICML 2019** [[Paper]](https://arxiv.org/abs/1905.04172) [[Code]](https://github.com/cetmann/robustness-interpretability)
-  - *Christian Etmann, Sebastian Lunz, Peter Maass, Carola-Bibiane Schönlieb*
-
-- **Adversarially Robust Distillation, AAAI 2020** [[Paper]](https://arxiv.org/abs/1905.09747v2) [[Pytorch]](https://github.com/goldblum/AdversariallyRobustDistillation)
-  - *Micah Goldblum, Liam Fowl, Soheil Feizi, Tom Goldstein*
-
-- **Jacobian Adversarially Regularized Networks for Robustness, ICLR 2020** [[Paper]](https://arxiv.org/abs/1912.10185) [[Tensorflow]](https://github.com/alvinchangw/JARN_ICLR2020)
-  - *Alvin Chan, Yi Tay, Yew Soon Ong, Jie Fu*
-  
-- **What it Thinks is Important is Important: Robustness Transfers through Input Gradients, CVPR 2020** [[Paper]](https://arxiv.org/pdf/1912.05699.pdf)[[Tensorflow]](https://github.com/alvinchangw/IGAM_CVPR2020)
-  - *Alvin Chan, Yi Tay, Yew Soon Ong*
-  
-### Adversarial Examples
- - **Intriguing properties of neural networks, ICLR 2014** [[Paper]](https://arxiv.org/pdf/1312.6199.pdf)
-   - *Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, Ian Goodfellow, Rob Fergus*
- 
- - **Explaining and Harnessing Adversarial Examples, ICLR 2015** [[Paper]](https://arxiv.org/abs/1412.6572)
-   - *Ian J. Goodfellow, Jonathon Shlens, Christian Szegedy*
-   
- - **The Limitations of Deep Learning in Adversarial Settings, Euro S&P 2016** [[Paper]](https://arxiv.org/abs/1511.07528?context=cs)
-   - *Nicolas Papernot, Patrick McDaniel, Somesh Jha, Matt Fredrikson, Z. Berkay Celik, Ananthram Swami*
-   
- - **Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks, S&P 2016** [[Paper]](https://arxiv.org/abs/1511.04508v1)
-   - *Nicolas Papernot, Patrick McDaniel, Xi Wu, Somesh Jha, Ananthram Swami*
-   
- - **Universal adversarial perturbations, CVPR 2017** [[Paper]](https://arxiv.org/abs/1610.08401v1)
-   - *Seyed-Mohsen Moosavi-Dezfooli, Alhussein Fawzi, Omar Fawzi, Pascal Frossard*
-   
- - **Towards Evaluating the Robustness of Neural Networks, S&P 2017** [[Paper]](https://arxiv.org/pdf/1608.04644.pdf)[[Code]](https://github.com/carlini/nn_robust_attacks)
-   - *Carlini Nicholas, Wagner David*
-   
- - **Axiomatic Attribution for Deep Networks, ICML 2017** [[Paper]](https://arxiv.org/pdf/1703.01365.pdf) [[Code]](https://github.com/ankurtaly/Integrated-Gradients)
-   - *Mukund Sundararajan, Ankur Taly, Qiqi Yan*
-   
- - **Towards Deep Learning Models Resistant to Adversarial Attacks, ICLR 2018** [[Paper]](https://arxiv.org/pdf/1706.06083.pdf) [[Code1]](https://github.com/MadryLab/mnist_challenge) [[Code2]](https://github.com/MadryLab/cifar10_challenge)
-   - *Madry, Aleksander，Makelov, Aleksandar，Schmidt, Ludwig，Tsipras, Dimitris，Vladu, Adrian*
-   
- - **Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples, ICML 2018** [[Paper]](https://arxiv.org/abs/1802.00420)[[Code]](https://github.com/anishathalye/obfuscated-gradients)
-   - *Anish Athalye, Nicholas Carlini, David Wagner*
-
- - **Adversarial Neural Pruning with Latent Vulnerability Suppression, ICML 2020** [[Paper]](https://arxiv.org/abs/1908.04355?context=cs.LG) [[Tensorflow]](https://github.com/divyam3897/ANP_VS)
-   - Divyam Madaan, Jinwoo Shin, Sung Ju Hwang
 
 ## Useful Resources
 
