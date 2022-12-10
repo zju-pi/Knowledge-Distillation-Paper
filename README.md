@@ -116,8 +116,12 @@ This resposity maintains a series of papers, especially on knowledge distillatio
 
 ## Diffusion Distillation
 
-- **Accelerating Diffusion Sampling with Classifier-based Feature Distillation, Arxiv 2022.11 ** [[Paper]](https://arxiv.org/abs/2211.12039)
+- **Progressive Distillation for Fast Sampling of Diffusion Models, ICLR 2022** [[Paper]](https://arxiv.org/abs/2202.00512)[[Tensorflow]](https://github.com/google-research/google-research/tree/master/diffusion_distillation)
+  - *Tim Salimans, Jonathan Ho*
+
+- **Accelerating Diffusion Sampling with Classifier-based Feature Distillation, Arxiv 2022.11** [[Paper]](https://arxiv.org/abs/2211.12039)
   - *Wujie Sun, Defang Chen, Can Wang, Deshi Ye, Yan Feng, Chun Chen*
+
 
 ## Data-Free Knowledge Distillation 
 
