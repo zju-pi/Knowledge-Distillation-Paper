@@ -8,7 +8,7 @@ This resposity maintains a series of papers, especially on knowledge distillatio
   * [Online Knowledge Distillation](#online-knowledge-distillation)
   * [Multi-Teacher Knowledge Distillation](#multi-teacher-knowledge-distillation)
   * [Data-Free Knowledge Distillation](#data-free-knowledge-distillation)
-
+  * [Useful Resources](#useful-resources)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'></a></i></small>
 
@@ -23,7 +23,7 @@ This resposity maintains a series of papers, especially on knowledge distillatio
 - **Distilling the Knowledge in a Neural Network, NIPS-workshop 2014** [[Paper]](https://arxiv.org/abs/1503.02531)
   - *Geoffrey Hinton, Oriol Vinyals, Jeff Dean.*
 
-## Diffusion Meets Distillation (Fast Sampling)
+## Diffusion Meets Distillation
 
 ***Extremely Promising*** !!!!!
 
