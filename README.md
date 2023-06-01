@@ -23,7 +23,7 @@ This resposity maintains a series of papers, especially on knowledge distillatio
 - **Distilling the Knowledge in a Neural Network, NIPS-workshop 2014** [[Paper]](https://arxiv.org/abs/1503.02531)
   - *Geoffrey Hinton, Oriol Vinyals, Jeff Dean.*
 
-## Diffusion Meets Distillation
+## Diffusion Meets Distillation (Fast Sampling)
 
 ***Extremely Promising*** !!!!!
 
