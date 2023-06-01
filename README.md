@@ -1,8 +1,8 @@
 # Knowledge-Distillation-Paper
-This resposity maintains a series of papers, especially on knowledge distillation.
+This resposity maintains a collection of important papers on knowledge distillation.
 
 - [Knowledge-Distillation-Paper](#knowledge-distillation-paper)
-  * [Early Works on Knowledge Distillation](#early-works-on-knowledge-distillation)
+  * [Pioneering Papers](#pioneering-papers)
   * [Diffusion Meets Distillation](#diffusion-meets-distillation)
   * [Feature Distillation](#feature-distillation)
   * [Online Knowledge Distillation](#online-knowledge-distillation)
@@ -12,15 +12,18 @@ This resposity maintains a series of papers, especially on knowledge distillatio
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'></a></i></small>
 
-## Early Works on Knowledge Distillation
+## Pioneering Papers
 
-- **Model Compression, KDD 2006** [[Paper]](https://dl.acm.org/doi/abs/10.1145/1150402.1150464)
+- **Model Compression, KDD 2006** 
+  - https://dl.acm.org/doi/abs/10.1145/1150402.1150464
   - *Cristian Buciluǎ, Rich Caruana, Alexandru Niculescu-Mizil.*
   
-- **Do Deep Nets Really Need to be Deep?, NIPS 2014** [[Paper]](https://arxiv.org/abs/1312.6184)
+- **Do Deep Nets Really Need to be Deep?, NeurIPS 2014** 
+  - https://arxiv.org/abs/1312.6184
   - *Lei Jimmy Ba, Rich Caruana.*
  
-- **Distilling the Knowledge in a Neural Network, NIPS-workshop 2014** [[Paper]](https://arxiv.org/abs/1503.02531)
+- **Distilling the Knowledge in a Neural Network, NeurIPS-workshop 2014** 
+  - https://arxiv.org/abs/1503.02531
   - *Geoffrey Hinton, Oriol Vinyals, Jeff Dean.*
 
 ## Diffusion Meets Distillation
@@ -197,12 +200,3 @@ This resposity maintains a series of papers, especially on knowledge distillatio
 
 - **Statistics of acceptance rate for the main AI conferences** [[Link]](https://github.com/lixin4ever/Conference-Acceptance-Rate)
 - **AI conference deadlines** [[Link]](https://aideadlin.es/?sub=ML,CV,DM,SP)
-
-### Accepted paper list
-- **ICML:** 2020 [[Link]](https://icml.cc/virtual/2020/papers.html?filter=keywords)
-- **ICLR:** 2020 [[Link]](https://openreview.net/group?id=ICLR.cc/2020/Conference)
-- **NIPS:** 2019 [[Link]](https://neurips.cc/Conferences/2019/Schedule?type=Poster)
-- **CVPR:** 2020 [[Link]](https://openaccess.thecvf.com/CVPR2020_search)
-- **ICCV:** 2019 [[Link]](https://openaccess.thecvf.com/ICCV2019)
-- **ECCV:** 2020 [[Link]](https://www.ecva.net/papers.php)
-
