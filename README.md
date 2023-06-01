@@ -1,12 +1,13 @@
 # Knowledge-Distillation-Paper
 This resposity maintains a series of papers, especially on knowledge distillation.
 
-- [Feature Distillation](#feature-distillation)
-- [Online Knowledge Distillation](#online-knowledge-distillation)
-- [Multi-Teacher Knowledge Distillation](#multi-teacher-knowledge-distillation)
-- [Diffusion Distillation](#diffusion-distillation)
-- [Data-Free Knowledge Distillation](#data-free-knowledge-distillation)
-- [Useful Resources](#useful-resources)
+- [Knowledge-Distillation-Paper](#knowledge-distillation-paper)
+  * [Early Works on Knowledge Distillation](#early-works-on-knowledge-distillation)
+  * [Diffusion Meets Distillation](#diffusion-meets-distillation)
+  * [Feature Distillation](#feature-distillation)
+  * [Online Knowledge Distillation](#online-knowledge-distillation)
+  * [Multi-Teacher Knowledge Distillation](#multi-teacher-knowledge-distillation)
+  * [Data-Free Knowledge Distillation](#data-free-knowledge-distillation)
 
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'></a></i></small>
@@ -21,7 +22,40 @@ This resposity maintains a series of papers, especially on knowledge distillatio
  
 - **Distilling the Knowledge in a Neural Network, NIPS-workshop 2014** [[Paper]](https://arxiv.org/abs/1503.02531)
   - *Geoffrey Hinton, Oriol Vinyals, Jeff Dean.*
-  
+
+## Diffusion Meets Distillation
+
+***Extremely Promising*** !!!!!
+
+- **Knowledge Distillation in Iterative Generative Models for Improved Sampling Speed** [[Tensorflow]](https://github.com/tcl9876/Denoising_Student/blob/master/training.py)
+  - https://arxiv.org/abs/2101.02388
+  - *Eric Luhman, Troy Luhman*
+
+- **Progressive Distillation for Fast Sampling of Diffusion Models, ICLR 2022** [[Tensorflow]](https://github.com/google-research/google-research/tree/master/diffusion_distillation)
+  - https://arxiv.org/abs/2202.00512
+  - *Tim Salimans, Jonathan Ho*
+
+- **Accelerating Diffusion Sampling with Classifier-based Feature Distillation, ICME 2023** [[PyTorch]](https://github.com/zju-SWJ/RCFD)
+  - https://arxiv.org/abs/2211.12039
+  - *Wujie Sun, Defang Chen, Can Wang, Deshi Ye, Yan Feng, Chun Chen*
+
+- **Fast Sampling of Diffusion Models via Operator Learning** 
+  - https://arxiv.org/abs/2211.13449
+  - *Hongkai Zheng, Weili Nie, Arash Vahdat, Kamyar Azizzadenesheli, Anima Anandkumar*
+
+- **Consistency Models, ICML 2023** [[PyTorch]](https://github.com/openai/consistency_models)
+  - https://arxiv.org/abs/2303.01469
+  - *Yang Song, Prafulla Dhariwal, Mark Chen, Ilya Sutskever*
+
+- **TRACT: Denoising Diffusion Models with Transitive Closure Time-Distillation** [[PyTorch]](https://github.com/apple/ml-tract)
+  - https://arxiv.org/abs/2303.04248
+  - *David Berthelot, Arnaud Autef, Jierui Lin, Dian Ang Yap, Shuangfei Zhai, Siyuan Hu, Daniel Zheng, Walter Talbott, Eric Gu*
+
+- **A Geometric Perspective on Diffusion Models** 
+  - https://arxiv.org/abs/2305.19947
+  - *Defang Chen, Zhenyu Zhou, Jian-Ping Mei, Chunhua Shen, Chun Chen, Can Wang*
+
+
 ## Feature Distillation
 
 - **FitNets: Hints for Thin Deep Nets, ICLR 2015** [[Paper]](https://arxiv.org/abs/1412.6550) [[Theano]](https://github.com/adri-romsor/FitNets)
@@ -114,13 +148,6 @@ This resposity maintains a series of papers, especially on knowledge distillatio
 - **Confidence-Aware Multi-Teacher Knowledge Distillation, ICASSP 2022** [[Paper]](https://arxiv.org/abs/2201.00007v1) [[Pytorch]](https://github.com/Rorozhl/CA-MKD)
   - *Hailin Zhang, Defang Chen, Can Wang.*
 
-## Diffusion Distillation
-
-- **Progressive Distillation for Fast Sampling of Diffusion Models, ICLR 2022** [[Paper]](https://arxiv.org/abs/2202.00512)[[Tensorflow]](https://github.com/google-research/google-research/tree/master/diffusion_distillation)
-  - *Tim Salimans, Jonathan Ho*
-
-- **Accelerating Diffusion Sampling with Classifier-based Feature Distillation, Arxiv 2022.11** [[Paper]](https://arxiv.org/abs/2211.12039)
-  - *Wujie Sun, Defang Chen, Can Wang, Deshi Ye, Yan Feng, Chun Chen*
 
 
 ## Data-Free Knowledge Distillation 
