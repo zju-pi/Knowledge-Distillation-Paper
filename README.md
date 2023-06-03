@@ -61,43 +61,48 @@ This resposity maintains a collection of important papers on knowledge distillat
 
 ## Feature Distillation
 
-- **FitNets: Hints for Thin Deep Nets, ICLR 2015** [[Paper]](https://arxiv.org/abs/1412.6550) [[Theano]](https://github.com/adri-romsor/FitNets)
+- **FitNets: Hints for Thin Deep Nets, ICLR 2015** [[Theano]](https://github.com/adri-romsor/FitNets)
+  - https://arxiv.org/abs/1412.6550
   - *Adriana Romero, Nicolas Ballas, Samira Ebrahimi Kahou, Antoine Chassang, Carlo Gatta, Yoshua Bengio.*
 
-- **Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer, ICLR 2017** [[Paper]](https://arxiv.org/abs/1612.03928) [[PyTorch]](https://github.com/szagoruyko/attention-transfer)
+- **Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer, ICLR 2017** [[PyTorch]](https://github.com/szagoruyko/attention-transfer)
+  - https://arxiv.org/abs/1612.03928
   - *Sergey Zagoruyko, Nikos Komodakis.*
 
-- **Learning Deep Representations with Probabilistic Knowledge Transfer, ECCV 2018** [[Paper]](https://arxiv.org/abs/1803.10837) [[Pytorch]](https://github.com/passalis/probabilistic_kt)
+- **Learning Deep Representations with Probabilistic Knowledge Transfer, ECCV 2018** [[Pytorch]](https://github.com/passalis/probabilistic_kt)
+  - https://arxiv.org/abs/1803.10837
   - *Nikolaos Passalis, Anastasios Tefas.*
-
-- **Knowledge Distillation via Instance Relationship Graph, CVPR 2019** [[Paper]](openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Knowledge_Distillation_via_Instance_Relationship_Graph_CVPR_2019_paper.pdf) [[Caffe]](https://github.com/yufanLIU/IRG)
-  - *Yufan Liu, Jiajiong Cao, Bing Li, Chunfeng Yuan, Weiming Hu, Yangxi Li and Yunqiang Duan.*
   
-- **Relational Knowledge Distillation, CVPR 2019** [[Paper]](https://arxiv.org/abs/1904.05068) [[Pytorch]](https://github.com/lenscloth/RKD)
+- **Relational Knowledge Distillation, CVPR 2019** [[Pytorch]](https://github.com/lenscloth/RKD)
+  - https://arxiv.org/abs/1904.05068
   - *Wonpyo Park, Dongju Kim, Yan Lu, Minsu Cho.*
+
+- **Variational Information Distillation for Knowledge Transfer, CVPR 2019** 
+  - https://arxiv.org/abs/1904.05835
+  - *Sungsoo Ahn, Shell Xu Hu, Andreas Damianou, Neil D. Lawrence, Zhenwen Dai.*
   
-- **Similarity-Preserving Knowledge Distillation, CVPR 2019** [[Paper]](https://arxiv.org/abs/1907.09682) 
+- **Similarity-Preserving Knowledge Distillation, CVPR 2019** 
+  - https://arxiv.org/abs/1907.09682
   - *Frederick Tung, Greg Mori.*
   
-- **Variational Information Distillation for Knowledge Transfer, CVPR 2019** [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ahn_Variational_Information_Distillation_for_Knowledge_Transfer_CVPR_2019_paper.pdf) 
-  - *Sungsoo Ahn, Shell Xu Hu, Andreas Damianou, Neil D. Lawrence, Zhenwen Dai.*
-
-- **Contrastive Representation Distillation, ICLR 2020** [[Paper]](https://arxiv.org/abs/1910.10699) [[Pytorch]](https://github.com/HobbitLong/RepDistiller)
+- **Contrastive Representation Distillation, ICLR 2020** [[Pytorch]](https://github.com/HobbitLong/RepDistiller)
+  - https://arxiv.org/abs/1910.10699
   - *Yonglong Tian, Dilip Krishnan, Phillip Isola.*
 
-- **Heterogeneous Knowledge Distillation using Information Flow Modeling, CVPR 2020** [[Paper]](https://arxiv.org/abs/2005.00727v1) [[Pytorch]](https://github.com/passalis/pkth)
+- **Heterogeneous Knowledge Distillation using Information Flow Modeling, CVPR 2020** [[Pytorch]](https://github.com/passalis/pkth)
+  - https://arxiv.org/abs/2005.00727v1
   - *Nikolaos Passalis, Maria Tzelepi, Anastasios Tefas.*
 
-- **Matching Guided Distillation, ECCV 2020** [[Paper]](https://arxiv.org/abs/2008.09958) [[Pytorch]](https://github.com/KaiyuYue/mgd)
-  - *Kaiyu Yue, Jiangfan Deng, Feng Zhou.*
-
-- **Cross-Layer Distillation with Semantic Calibration, AAAI 2021** [[Paper]](https://arxiv.org/abs/2012.03236) [[Pytorch]](https://github.com/DefangChen/SemCKD)[[TKDE]](https://ieeexplore.ieee.org/document/9767633)
+- **Cross-Layer Distillation with Semantic Calibration, AAAI 2021** [[Pytorch]](https://github.com/DefangChen/SemCKD)[[TKDE]](https://ieeexplore.ieee.org/document/9767633)
+  - https://arxiv.org/abs/2012.03236
   - *Defang Chen, Jian-Ping Mei, Yuan Zhang, Can Wang, Zhe Wang, Yan Feng, Chun Chen.*
   
-- **Distilling Holistic Knowledge with Graph Neural Networks, ICCV 2021** [[Paper]](https://arxiv.org/abs/2108.05507) [[Pytorch]](https://github.com/wyc-ruiker/HKD)
+- **Distilling Holistic Knowledge with Graph Neural Networks, ICCV 2021** [[Pytorch]](https://github.com/wyc-ruiker/HKD)
+  - https://arxiv.org/abs/2108.05507
   - *Sheng Zhou, Yucheng Wang, Defang Chen, Jiawei Chen, Xin Wang, Can Wang, Jiajun Bu.*
 
-- **Knowledge Distillation with the Reused Teacher Classifier, CVPR 2022** [[Paper]](https://arxiv.org/abs/2203.14001) [[Pytorch]](https://github.com/DefangChen/SimKD)
+- **Knowledge Distillation with the Reused Teacher Classifier, CVPR 2022** [[Pytorch]](https://github.com/DefangChen/SimKD)
+  - https://arxiv.org/abs/2203.14001
   - *Defang Chen, Jian-Ping Mei, Hailin Zhang, Can Wang, Yan Feng, Chun Chen.*
 
 ## Online Knowledge Distillation
