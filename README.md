@@ -28,7 +28,7 @@ This resposity maintains a collection of important papers on knowledge distillat
 
 ## Diffusion Meets Distillation
 
-***Extremely Promising*** !!!!!
+<p align="center"><strong>Extremely Promising</strong> !!!!!</p>
 
 - **Knowledge Distillation in Iterative Generative Models for Improved Sampling Speed** [[Tensorflow]](https://github.com/tcl9876/Denoising_Student/blob/master/training.py)
   - https://arxiv.org/abs/2101.02388
@@ -107,23 +107,21 @@ This resposity maintains a collection of important papers on knowledge distillat
 
 ## Online Knowledge Distillation
 
-- **Deep Mutual Learning, CVPR 2018** [[Paper]](https://arxiv.org/abs/1804.03235) [[TensorFlow]](https://github.com/YingZhangDUT/Deep-Mutual-Learning)
+- **Deep Mutual Learning, CVPR 2018** [[TensorFlow]](https://github.com/YingZhangDUT/Deep-Mutual-Learning)
+  - https://arxiv.org/abs/1706.00384
   - *Ying Zhang, Tao Xiang, Timothy M. Hospedales, Huchuan Lu.*
 
-- **Large scale distributed neural network training through online distillation, ICLR 2018** [[Paper]](https://arxiv.org/abs/1804.03235) 
+- **Large scale distributed neural network training through online distillation, ICLR 2018** 
+  - https://arxiv.org/abs/1804.03235
   - *Rohan Anil, Gabriel Pereyra, Alexandre Passos, Robert Ormandi, George E. Dahl and Geoffrey E. Hinton.*
 
-- **Collaborative Learning for Deep Neural Networks, NIPS 2018** [[Paper]](https://arxiv.org/abs/1805.11761v2) 
-  - *Guocong Song, Wei Chai.*
-
-- **Knowledge Distillation by On-the-Fly Native Ensemble, NIPS 2018** [[Paper]](https://arxiv.org/abs/1806.04606)  [[PyTorch]](https://github.com/Lan1991Xu/ONE_NeurIPS2018)
+- **Knowledge Distillation by On-the-Fly Native Ensemble, NIPS 2018** [[PyTorch]](https://github.com/Lan1991Xu/ONE_NeurIPS2018)
+  - https://arxiv.org/abs/1806.04606
   - *Xu Lan, Xiatian Zhu, Shaogang Gong.*
 
-- **Online Knowledge Distillation with Diverse Peers, AAAI 2020** [[Paper]](https://arxiv.org/abs/1912.00350) [[Pytorch]](https://github.com/DefangChen/OKDDip-AAAI2020)
+- **Online Knowledge Distillation with Diverse Peers, AAAI 2020** [[Pytorch]](https://github.com/DefangChen/OKDDip-AAAI2020)
+  - https://arxiv.org/abs/1912.00350
   - *Defang Chen, Jian-Ping Mei, Can Wang, Yan Feng and Chun Chen.*
-
-- **Online Knowledge Distillation via Collaborative Learning, CVPR 2020** [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_Online_Knowledge_Distillation_via_Collaborative_Learning_CVPR_2020_paper.pdf) 
-  - *Qiushan Guo, Xinjiang Wang, Yichao Wu, Zhipeng Yu, Ding Liang, Xiaolin Hu, Ping Luo.*
 
 ## Multi-Teacher Knowledge Distillation
 
