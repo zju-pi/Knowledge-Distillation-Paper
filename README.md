@@ -96,10 +96,18 @@ This resposity maintains a collection of important papers on knowledge distillat
 - **Cross-Layer Distillation with Semantic Calibration, AAAI 2021** [[Pytorch]](https://github.com/DefangChen/SemCKD)[[TKDE]](https://ieeexplore.ieee.org/document/9767633)
   - https://arxiv.org/abs/2012.03236
   - *Defang Chen, Jian-Ping Mei, Yuan Zhang, Can Wang, Zhe Wang, Yan Feng, Chun Chen.*
+
+- **Distilling Knowledge via Knowledge Review, CVPR 2021** [[Pytorch]](https://github.com/dvlab-research/ReviewKD)
+  - https://arxiv.org/abs/2104.09044
+  - *Pengguang Chen, Shu Liu, Hengshuang Zhao, Jiaya Jia.*
   
 - **Distilling Holistic Knowledge with Graph Neural Networks, ICCV 2021** [[Pytorch]](https://github.com/wyc-ruiker/HKD)
   - https://arxiv.org/abs/2108.05507
   - *Sheng Zhou, Yucheng Wang, Defang Chen, Jiawei Chen, Xin Wang, Can Wang, Jiajun Bu.*
+
+- **Decoupled Knowledge Distillation, CVPR 2022** [[Pytorch]](https://github.com/megvii-research/mdistiller)
+  - https://arxiv.org/abs/2203.08679
+  - *Borui Zhao, Quan Cui, Renjie Song, Yiyu Qiu, Jiajun Liang*
 
 - **Knowledge Distillation with the Reused Teacher Classifier, CVPR 2022** [[Pytorch]](https://github.com/DefangChen/SimKD)
   - https://arxiv.org/abs/2203.14001
@@ -123,6 +131,13 @@ This resposity maintains a collection of important papers on knowledge distillat
   - https://arxiv.org/abs/1912.00350
   - *Defang Chen, Jian-Ping Mei, Can Wang, Yan Feng and Chun Chen.*
 
+- **Feature-map-level Online Adversarial Knowledge Distillation, ICML 2020** 
+  - https://arxiv.org/abs/2002.01775
+  - *Inseop Chung, SeongUk Park, Jangho Kim, Nojun Kwak.*
+
+- **Peer collaborative learning for online knowledge distillation, AAAI 2021** 
+  - https://arxiv.org/abs/2006.04147
+  - *Guile Wu, Shaogang Gong.*
 
 *** 
 
