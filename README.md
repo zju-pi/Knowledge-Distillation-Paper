@@ -123,7 +123,7 @@ This resposity maintains a collection of important papers on knowledge distillat
   - https://arxiv.org/abs/1804.03235
   - *Rohan Anil, Gabriel Pereyra, Alexandre Passos, Robert Ormandi, George E. Dahl and Geoffrey E. Hinton.*
 
-- **Knowledge Distillation by On-the-Fly Native Ensemble, NIPS 2018** [[PyTorch]](https://github.com/Lan1991Xu/ONE_NeurIPS2018)
+- **Knowledge Distillation by On-the-Fly Native Ensemble, NeurIPS 2018** [[PyTorch]](https://github.com/Lan1991Xu/ONE_NeurIPS2018)
   - https://arxiv.org/abs/1806.04606
   - *Xu Lan, Xiatian Zhu, Shaogang Gong.*
 
@@ -139,37 +139,29 @@ This resposity maintains a collection of important papers on knowledge distillat
   - https://arxiv.org/abs/2006.04147
   - *Guile Wu, Shaogang Gong.*
 
-*** 
-
 ## Multi-Teacher Knowledge Distillation
 
-- **Distilling knowledge from ensembles of neural networks for speech recognition, INTERSPEECH 2016** [[Paper]](http://www-clmc.usc.edu/~chebotar/pub/chebotar_interspeech16.pdf) 
+- **Distilling knowledge from ensembles of neural networks for speech recognition, INTERSPEECH 2016** 
+  - https://www.isca-speech.org/archive_v0/Interspeech_2016/pdfs/1190.PDF
   - *Austin Waters, Yevgen Chebotar.*
 
-- **Efficient Knowledge Distillation from an Ensemble of Teachers, INTERSPEECH 2017** [[Paper]](https://isca-speech.org/archive_v0/Interspeech_2017/pdfs/0614.PDF) 
+- **Efficient Knowledge Distillation from an Ensemble of Teachers, INTERSPEECH 2017** 
+  - https://isca-speech.org/archive_v0/Interspeech_2017/pdfs/0614.PDF
   - *Takashi Fukuda, Masayuki Suzuki, Gakuto Kurata, Samuel Thomas, Jia Cui, Bhuvana Ramabhadran.*
 
-- **Learning from Multiple Teacher Networks, KDD 2017** [[Paper]](https://dl.acm.org/doi/10.1145/3097983.3098135) 
-  - *Shan You, Chang Xu, Chao Xu, Dacheng Tao.*
-
-- **Multi-teacher Knowledge Distillation for Compressed Video Action Recognition on Deep Neural Networks, ICASSP 2019** [[Paper]](https://ieeexplore.ieee.org/document/8682450) 
-  - *Meng-Chieh Wu, Ching-Te Chiu, Kun-Hsuan Wu.*
-
-- **Agree to Disagree: Adaptive Ensemble Knowledge Distillation in Gradient Space, NIPS 2020** [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/91c77393975889bd08f301c9e13a44b7-Abstract.html) [[Pytorch]](https://github.com/AnTuo1998/AE-KD)
+- **Agree to Disagree: Adaptive Ensemble Knowledge Distillation in Gradient Space, NeurIPS 2020** [[Pytorch]](https://github.com/AnTuo1998/AE-KD)
+  - https://proceedings.neurips.cc/paper/2020/hash/91c77393975889bd08f301c9e13a44b7-Abstract.html 
   - *Shangchen Du, Shan You, Xiaojie Li, Jianlong Wu, Fei Wang, Chen Qian, Changshui Zhang.*
 
-- **Adaptive Knowledge Distillation Based on Entropy, ICASSP 2020** [[Paper]](https://ieeexplore.ieee.org/document/9054698) 
-  - *Kisoo Kwon, Hwidong Na, Hoshik Lee, Nam Soo Kim.*
-
-- **Reinforced Multi-Teacher Selection for Knowledge Distillation, AAAI 2021** [[Paper]](https://arxiv.org/abs/2012.06048v2) 
+- **Reinforced Multi-Teacher Selection for Knowledge Distillation, AAAI 2021** 
+  - https://arxiv.org/abs/2012.06048
   - *Fei Yuan, Linjun Shou, Jian Pei, Wutao Lin, Ming Gong, Yan Fu, Daxin Jiang*
 
-- **Adaptive Distillation: Aggregating Knowledge from Multiple Paths for Efficient Distillation, BMVC 2021** [[Paper]](https://arxiv.org/abs/2110.09674v2) [[Pytorch]](https://github.com/wyze-AI/AdaptiveDistillation)
-  - *Sumanth Chennupati, Mohammad Mahdi Kamani, Zhongwei Cheng, Lin Chen*
-
-- **Confidence-Aware Multi-Teacher Knowledge Distillation, ICASSP 2022** [[Paper]](https://arxiv.org/abs/2201.00007v1) [[Pytorch]](https://github.com/Rorozhl/CA-MKD)
+- **Confidence-Aware Multi-Teacher Knowledge Distillation, ICASSP 2022** [[Pytorch]](https://github.com/Rorozhl/CA-MKD)
+  - https://arxiv.org/abs/2201.00007
   - *Hailin Zhang, Defang Chen, Can Wang.*
 
+*** 
 
 ## Data-Free Knowledge Distillation 
 
