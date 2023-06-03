@@ -90,7 +90,7 @@ This resposity maintains a collection of important papers on knowledge distillat
   - *Yonglong Tian, Dilip Krishnan, Phillip Isola.*
 
 - **Heterogeneous Knowledge Distillation using Information Flow Modeling, CVPR 2020** [[Pytorch]](https://github.com/passalis/pkth)
-  - https://arxiv.org/abs/2005.00727v1
+  - https://arxiv.org/abs/2005.00727
   - *Nikolaos Passalis, Maria Tzelepi, Anastasios Tefas.*
 
 - **Cross-Layer Distillation with Semantic Calibration, AAAI 2021** [[Pytorch]](https://github.com/DefangChen/SemCKD)[[TKDE]](https://ieeexplore.ieee.org/document/9767633)
@@ -123,9 +123,10 @@ This resposity maintains a collection of important papers on knowledge distillat
   - https://arxiv.org/abs/1912.00350
   - *Defang Chen, Jian-Ping Mei, Can Wang, Yan Feng and Chun Chen.*
 
-## Multi-Teacher Knowledge Distillation
 
-### Homogenous Label Space
+*** 
+
+## Multi-Teacher Knowledge Distillation
 
 - **Distilling knowledge from ensembles of neural networks for speech recognition, INTERSPEECH 2016** [[Paper]](http://www-clmc.usc.edu/~chebotar/pub/chebotar_interspeech16.pdf) 
   - *Austin Waters, Yevgen Chebotar.*
@@ -153,7 +154,6 @@ This resposity maintains a collection of important papers on knowledge distillat
 
 - **Confidence-Aware Multi-Teacher Knowledge Distillation, ICASSP 2022** [[Paper]](https://arxiv.org/abs/2201.00007v1) [[Pytorch]](https://github.com/Rorozhl/CA-MKD)
   - *Hailin Zhang, Defang Chen, Can Wang.*
-
 
 
 ## Data-Free Knowledge Distillation 
