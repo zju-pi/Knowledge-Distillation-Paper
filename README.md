@@ -28,6 +28,8 @@ This resposity maintains a collection of important papers on knowledge distillat
 
 ## Diffusion Meets Distillation
 
+Fast Sampling of Diffusion Models with the help of Knowledge Distillation.
+
 <p align="center"><strong>Extremely Promising</strong> !!!!!</p>
 
 - **Knowledge Distillation in Iterative Generative Models for Improved Sampling Speed** [[Tensorflow]](https://github.com/tcl9876/Denoising_Student/blob/master/training.py)
@@ -157,8 +159,12 @@ This resposity maintains a collection of important papers on knowledge distillat
   - https://arxiv.org/abs/2012.06048
   - *Fei Yuan, Linjun Shou, Jian Pei, Wutao Lin, Ming Gong, Yan Fu, Daxin Jiang*
 
-- **Confidence-Aware Multi-Teacher Knowledge Distillation, ICASSP 2022** [[Pytorch]](https://github.com/Rorozhl/CA-MKD)
+- **Confidence-Aware Multi-Teacher Knowledge Distillation, ICASSP 2022** [[Pytorch]](https://github.com/rorozhl/mmkd)
   - https://arxiv.org/abs/2201.00007
+  - *Hailin Zhang, Defang Chen, Can Wang.*
+
+- **Adaptive Multi-Teacher Knowledge Distillation with Meta-Learning, ICME 2023** [[Pytorch]](https://github.com/Rorozhl/CA-MKD)
+  - https://arxiv.org/abs/2306.06634
   - *Hailin Zhang, Defang Chen, Can Wang.*
 
 *** 
