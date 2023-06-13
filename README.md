@@ -7,6 +7,7 @@ This resposity maintains a collection of important papers on knowledge distillat
   * [Feature Distillation](#feature-distillation)
   * [Online Knowledge Distillation](#online-knowledge-distillation)
   * [Multi-Teacher Knowledge Distillation](#multi-teacher-knowledge-distillation)
+  * [Distillation for Segmentation](#distillation-for-segmentation)
   * [Data-Free Knowledge Distillation](#data-free-knowledge-distillation)
   * [Useful Resources](#useful-resources)
 
@@ -164,6 +165,19 @@ This resposity maintains a collection of important papers on knowledge distillat
 - **Adaptive Multi-Teacher Knowledge Distillation with Meta-Learning, ICME 2023** [[Pytorch]](https://github.com/Rorozhl/CA-MKD)
   - https://arxiv.org/abs/2306.06634
   - *Hailin Zhang, Defang Chen, Can Wang.*
+
+## Distillation for Segmentation
+
+- **Structured Knowledge Distillation for Dense Prediction, CVPR 2019, TPAMI 2020** [[Pytorch]](https://github.com/irfanICMLL/structure_knowledge_distillation)
+  - https://arxiv.org/abs/1903.04197
+  - *Yifan Liu, Changyong Shun, Jingdong Wang, Chunhua Shen.*
+
+- **Channel-wise Knowledge Distillation for Dense Prediction, ICCV 2021** [[Pytorch]](https://github.com/irfanICMLL/TorchDistiller/tree/main/SemSeg-distill)
+  - https://arxiv.org/abs/2011.13256
+  - *Changyong Shu, Yifan Liu, Jianfei Gao, Zheng Yan, Chunhua Shen.*
+
+- **Holistic Weighted Distillation for Semantic Segmentation, ICME 2023** [[Pytorch]](https://github.com/zju-SWJ/HWD) 
+  - *Wujie Sun, Defang Chen, Can Wang, Deshi Ye, Yan Feng, Chun Chen.*
 
 *** 
 
