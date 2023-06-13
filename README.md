@@ -7,8 +7,8 @@ This resposity maintains a collection of important papers on knowledge distillat
   * [Feature Distillation](#feature-distillation)
   * [Online Knowledge Distillation](#online-knowledge-distillation)
   * [Multi-Teacher Knowledge Distillation](#multi-teacher-knowledge-distillation)
-  * [Distillation for Segmentation](#distillation-for-segmentation)
   * [Data-Free Knowledge Distillation](#data-free-knowledge-distillation)
+  * [Distillation for Segmentation](#distillation-for-segmentation)
   * [Useful Resources](#useful-resources)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'></a></i></small>
@@ -166,6 +166,39 @@ This resposity maintains a collection of important papers on knowledge distillat
   - https://arxiv.org/abs/2306.06634
   - *Hailin Zhang, Defang Chen, Can Wang.*
 
+## Data-Free Knowledge Distillation 
+
+- **Data-Free Knowledge Distillation for Deep Neural Networks, NeurIPS-workshop 2017** [[Tensorflow]](https://github.com/iRapha/replayed_distillation)
+  - https://arxiv.org/abs/1710.07535 
+  - *Raphael Gontijo Lopes, Stefano Fenu, Thad Starner*
+
+- **DAFL: Data-Free Learning of Student Networks, ICCV 2019** [[PyTorch]](https://github.com/huawei-noah/Efficient-Computing/tree/master/Data-Efficient-Model-Compression)
+  - https://arxiv.org/abs/1904.01186
+  - *Hanting Chen, Yunhe Wang, Chang Xu, Zhaohui Yang, Chuanjian Liu, Boxin Shi, Chunjing Xu, Chao Xu, Qi Tian*
+
+- **Zero-Shot Knowledge Distillation in Deep Networks, ICML 2019** [[Tensorflow]](https://github.com/vcl-iisc/ZSKD) 
+  - https://arxiv.org/abs/1905.08114 
+  - *Gaurav Kumar Nayak, Konda Reddy Mopuri, Vaisakh Shaj, R. Venkatesh Babu, Anirban Chakraborty*
+
+- **Zero-shot Knowledge Transfer via Adversarial Belief Matching, NeurIPS 2019** [[Pytorch]](https://github.com/polo5/ZeroShotKnowledgeTransfer)
+  - https://arxiv.org/abs/1905.09768
+  - *Paul Micaelli, Amos Storkey*
+
+- **Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion, CVPR 2020** [[Pytorch]](https://github.com/NVlabs/DeepInversion) 
+  - https://arxiv.org/abs/1912.08795
+  - *Hongxu Yin, Pavlo Molchanov, Zhizhong Li, Jose M. Alvarez, Arun Mallya, Derek Hoiem, Niraj K. Jha, Jan Kautz*
+
+- **The Knowledge Within: Methods for Data-Free Model Compression, CVPR 2020** 
+  - https://arxiv.org/abs/1912.01274
+  - *Matan Haroush, Itay Hubara, Elad Hoffer, Daniel Soudry*
+
+- **Contrastive Model Inversion for Data-Free Knowledge Distillation, IJCAI 2021** [[Pytorch]](https://github.com/zju-vipa/DataFree) 
+  - https://arxiv.org/abs/2105.08584 
+  - *Gongfan Fang, Jie Song, Xinchao Wang, Chengchao Shen, Xingen Wang, Mingli Song*
+
+- **Customizing Synthetic Data for Data-Free Student Learning, ICME 2023** [[Pytorch]](https://github.com/luoshiya/CSD) 
+  - *Shiya Luo, Defang Chen, Can Wang*
+
 ## Distillation for Segmentation
 
 - **Structured Knowledge Distillation for Dense Prediction, CVPR 2019, TPAMI 2020** [[Pytorch]](https://github.com/irfanICMLL/structure_knowledge_distillation)
@@ -179,52 +212,8 @@ This resposity maintains a collection of important papers on knowledge distillat
 - **Holistic Weighted Distillation for Semantic Segmentation, ICME 2023** [[Pytorch]](https://github.com/zju-SWJ/HWD) 
   - *Wujie Sun, Defang Chen, Can Wang, Deshi Ye, Yan Feng, Chun Chen.*
 
-*** 
-
-## Data-Free Knowledge Distillation 
-
-- **Data-Free Knowledge Distillation for Deep Neural Networks, NIPS-workshop 2017** [[Paper]](https://arxiv.org/abs/1710.07535v2) [[Tensorflow]](https://github.com/iRapha/replayed_distillation)
-  - *Raphael Gontijo Lopes, Stefano Fenu, Thad Starner*
-
-- **DAFL: Data-Free Learning of Student Networks, ICCV 2019** [[Paper]](https://arxiv.org/abs/1904.01186) [[PyTorch]](https://github.com/huawei-noah/Efficient-Computing/tree/master/Data-Efficient-Model-Compression)
-  - *Hanting Chen, Yunhe Wang, Chang Xu, Zhaohui Yang, Chuanjian Liu, Boxin Shi, Chunjing Xu, Chao Xu, Qi Tian*
-
-- **Zero-Shot Knowledge Distillation in Deep Networks, ICML 2019** [[Paper]](https://arxiv.org/abs/1905.08114v1) [[Tensorflow]](https://github.com/vcl-iisc/ZSKD) 
-  - *Gaurav Kumar Nayak, Konda Reddy Mopuri, Vaisakh Shaj, R. Venkatesh Babu, Anirban Chakraborty*
-
-- **Zero-shot Knowledge Transfer via Adversarial Belief Matching, NIPS 2019** [[Paper]](https://arxiv.org/abs/1905.09768v4) [[Pytorch]](https://github.com/polo5/ZeroShotKnowledgeTransfer) 
-  - *Paul Micaelli, Amos Storkey*
-
-- **Knowledge Extraction with No Observable Data, NIPS 2019** [[Paper]](http://papers.nips.cc/paper/8538-knowledge-extraction-with-no-observable-data) [[Pytorch]](https://github.com/snudatalab/KegNet) 
-  - *Jaemin Yoo, Minyong Cho, Taebum Kim, U Kang*
-
-- **Dream Distillation: A Data-Independent Model Compression Framework, ICML-workshop 2019** [[Paper]](https://arxiv.org/abs/1905.07072v1) 
-  - *Kartikeya Bhardwaj, Naveen Suda, Radu Marculescu*
-
-- **DeGAN : Data-Enriching GAN for Retrieving Representative Samples from a Trained Classifier, AAAI 2020** [[Paper]](https://arxiv.org/abs/1912.11960v1) [[Pytorch]](https://github.com/vcl-iisc/DeGAN) 
-  - *Sravanti Addepalli, Gaurav Kumar Nayak, Anirban Chakraborty, R. Venkatesh Babu*
-
-- **Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion, CVPR 2020** [[Paper]](https://arxiv.org/abs/1912.08795v2) [[Pytorch]](https://github.com/NVlabs/DeepInversion) 
-  - *Hongxu Yin, Pavlo Molchanov, Zhizhong Li, Jose M. Alvarez, Arun Mallya, Derek Hoiem, Niraj K. Jha, Jan Kautz*
-
-- **The Knowledge Within: Methods for Data-Free Model Compression, CVPR 2020** [[Paper]](https://arxiv.org/abs/1912.01274) 
-  - *Matan Haroush, Itay Hubara, Elad Hoffer, Daniel Soudry*
-
-- **Data-Free Adversarial Distillation, ArXiv 2019.12** [[Paper]](https://arxiv.org/abs/1912.11006) [[Pytorch]](https://github.com/VainF/Data-Free-Adversarial-Distillation) 
-  - *Gongfan Fang, Jie Song, Chengchao Shen, Xinchao Wang, Da Chen, Mingli Song*
-  - Similar to `NIPS-2019 Zero-shot Knowledge Transfer via Adversarial Belief Matching`
-
-- **Data-Free Knowledge Distillation with Soft Targeted Transfer Set Synthesis, AAAI 2021** [[Paper]](https://arxiv.org/abs/2104.04868) 
-  - *Zi Wang*
-
-- **Learning Student Networks in the Wild, CVPR 2021** [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Learning_Student_Networks_in_the_Wild_CVPR_2021_paper.html) [[Pytorch]](https://github.com/huawei-noah/Efficient-Computing/tree/master/Data-Efficient-Model-Compression/DFND) 
-  - *Hanting Chen, Tianyu Guo, Chang Xu, Wenshuo Li, Chunjing Xu, Chao Xu, Yunhe Wang*
-
-- **Contrastive Model Inversion for Data-Free Knowledge Distillation, IJCAI 2021** [[Paper]](https://arxiv.org/abs/2105.08584) [[Pytorch]](https://github.com/zju-vipa/DataFree) 
-  - *Gongfan Fang, Jie Song, Xinchao Wang, Chengchao Shen, Xingen Wang, Mingli Song*
-
-
 ## Useful Resources
 
-- **Statistics of acceptance rate for the main AI conferences** [[Link]](https://github.com/lixin4ever/Conference-Acceptance-Rate)
-- **AI conference deadlines** [[Link]](https://aideadlin.es/?sub=ML,CV,DM,SP)
+- **Acceptance rates of the main AI conferences** [[Link]](https://github.com/lixin4ever/Conference-Acceptance-Rate)
+- **AI conference deadlines** [[Link]](https://aideadlin.es/?sub=ML,CV,SP) 
+- **CCF conference deadlines** [[Link]](https://ccfddl.github.io/) 
