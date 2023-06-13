@@ -3,7 +3,7 @@ This resposity maintains a collection of important papers on knowledge distillat
 
 - [Knowledge-Distillation-Paper](#knowledge-distillation-paper)
   * [Pioneering Papers](#pioneering-papers)
-  * [Diffusion Meets Distillation](#diffusion-meets-distillation)
+  * [Distillation Accelerates Diffusion Models](#distillation-accelerates-diffusion-models)
   * [Feature Distillation](#feature-distillation)
   * [Online Knowledge Distillation](#online-knowledge-distillation)
   * [Multi-Teacher Knowledge Distillation](#multi-teacher-knowledge-distillation)
@@ -26,9 +26,7 @@ This resposity maintains a collection of important papers on knowledge distillat
   - https://arxiv.org/abs/1503.02531
   - *Geoffrey Hinton, Oriol Vinyals, Jeff Dean.*
 
-## Diffusion Meets Distillation
-
-Fast Sampling of Diffusion Models with the help of Knowledge Distillation.
+## Distillation Accelerates Diffusion Models
 
 <p align="center"><strong>Extremely Promising</strong> !!!!!</p>
 
