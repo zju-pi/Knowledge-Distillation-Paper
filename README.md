@@ -46,7 +46,7 @@ This resposity maintains a collection of important papers on knowledge distillat
   - https://arxiv.org/abs/2211.12039
   - *Wujie Sun, Defang Chen, Can Wang, Deshi Ye, Yan Feng, Chun Chen*
 
-- **Fast Sampling of Diffusion Models via Operator Learning** 
+- **Fast Sampling of Diffusion Models via Operator Learning, ICML 2023** 
   - https://arxiv.org/abs/2211.13449
   - *Hongkai Zheng, Weili Nie, Arash Vahdat, Kamyar Azizzadenesheli, Anima Anandkumar*
 
@@ -211,6 +211,10 @@ This resposity maintains a collection of important papers on knowledge distillat
 - **Channel-wise Knowledge Distillation for Dense Prediction, ICCV 2021** [[Pytorch]](https://github.com/irfanICMLL/TorchDistiller/tree/main/SemSeg-distill)
   - https://arxiv.org/abs/2011.13256
   - *Changyong Shu, Yifan Liu, Jianfei Gao, Zheng Yan, Chunhua Shen.*
+
+- **Cross-Image Relational Knowledge Distillation for Semantic Segmentation, CVPR 2022** [[Pytorch]](https://github.com/winycg/CIRKD)
+  - https://arxiv.org/abs/2204.06986
+  - *Chuanguang Yang, Helong Zhou, Zhulin An, Xue Jiang, Yongjun Xu, Qian Zhang.*
 
 - **Holistic Weighted Distillation for Semantic Segmentation, ICME 2023** [[Pytorch]](https://github.com/zju-SWJ/HWD) 
   - *Wujie Sun, Defang Chen, Can Wang, Deshi Ye, Yan Feng, Chun Chen.*
