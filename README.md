@@ -46,7 +46,7 @@ This resposity maintains a collection of important papers on knowledge distillat
   - https://arxiv.org/abs/2211.12039
   - *Wujie Sun, Defang Chen, Can Wang, Deshi Ye, Yan Feng, Chun Chen*
 
-- **Fast Sampling of Diffusion Models via Operator Learning, ICML 2023** 
+- **Fast Sampling of Diffusion Models via Operator Learning, ICML 2023** [[PyTorch]](https://github.com/neuraloperator/DSNO-pytorch)
   - https://arxiv.org/abs/2211.13449
   - *Hongkai Zheng, Weili Nie, Arash Vahdat, Kamyar Azizzadenesheli, Anima Anandkumar*
 
@@ -199,7 +199,8 @@ This resposity maintains a collection of important papers on knowledge distillat
   - https://arxiv.org/abs/2105.08584 
   - *Gongfan Fang, Jie Song, Xinchao Wang, Chengchao Shen, Xingen Wang, Mingli Song*
 
-- **Customizing Synthetic Data for Data-Free Student Learning, ICME 2023** [[Pytorch]](https://github.com/luoshiya/CSD) 
+- **Customizing Synthetic Data for Data-Free Student Learning, ICME 2023** [[Pytorch]](https://github.com/luoshiya/CSD)
+  - https://arxiv.org/abs/2307.04542 
   - *Shiya Luo, Defang Chen, Can Wang*
 
 ## Distillation for Segmentation
