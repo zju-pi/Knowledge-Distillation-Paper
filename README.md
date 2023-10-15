@@ -6,6 +6,7 @@ This resposity maintains a collection of important papers on knowledge distillat
 
 - [Knowledge-Distillation-Paper](#knowledge-distillation-paper)
   * [Pioneering Papers](#pioneering-papers)
+  * [Survey Papers](#survey-papers)
   * [Distillation Accelerates Diffusion Models](#distillation-accelerates-diffusion-models)
   * [Feature Distillation](#feature-distillation)
   * [Online Knowledge Distillation](#online-knowledge-distillation)
@@ -29,6 +30,16 @@ This resposity maintains a collection of important papers on knowledge distillat
 - **Distilling the Knowledge in a Neural Network, NeurIPS-workshop 2014** 
   - https://arxiv.org/abs/1503.02531
   - *Geoffrey Hinton, Oriol Vinyals, Jeff Dean.*
+
+## Survey Papers
+
+- **Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks, TPAMI 2022** 
+  - https://arxiv.org/abs/2004.05937
+  - *Lin Wang, Kuk-Jin Yoon.*
+
+- **Knowledge Distillation: A Survey, IJCV 2021** 
+  - https://arxiv.org/abs/2006.05525
+  - *Jianping Gou, Baosheng Yu, Stephen John Maybank, Dacheng Tao.*
 
 ## Distillation Accelerates Diffusion Models
 
@@ -62,6 +73,9 @@ This resposity maintains a collection of important papers on knowledge distillat
   - https://arxiv.org/abs/2305.19947
   - *Defang Chen, Zhenyu Zhou, Jian-Ping Mei, Chunhua Shen, Chun Chen, Can Wang*
 
+- **BOOT: Data-free Distillation of Denoising Diffusion Models with Bootstrapping** [[PyTorch]](https://jiataogu.me/boot/)
+  - https://arxiv.org/abs/2306.05544
+  - *Jiatao Gu, Shuangfei Zhai, Yizhe Zhang, Lingjie Liu, Josh Susskind*
 
 ## Feature Distillation
 
