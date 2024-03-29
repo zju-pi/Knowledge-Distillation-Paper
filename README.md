@@ -77,6 +77,10 @@ This resposity maintains a collection of important papers on knowledge distillat
   - https://arxiv.org/abs/2306.05544
   - *Jiatao Gu, Shuangfei Zhai, Yizhe Zhang, Lingjie Liu, Josh Susskind*
 
+- **Fast ODE-based Sampling for Diffusion Models in Around 5 Steps** [[PyTorch]](https://github.com/zju-pi/diff-sampler)
+  - https://arxiv.org/abs/2312.00094
+  - *Zhenyu Zhou, Defang Chen, Can Wang, Chun Chen*
+
 ## Feature Distillation
 
 - **FitNets: Hints for Thin Deep Nets, ICLR 2015** [[Theano]](https://github.com/adri-romsor/FitNets)
