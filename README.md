@@ -74,13 +74,17 @@ This resposity maintains a collection of important papers on knowledge distillat
   - https://arxiv.org/abs/2305.19947
   - *Defang Chen, Zhenyu Zhou, Jian-Ping Mei, Chunhua Shen, Chun Chen, Can Wang*
 
-- **BOOT: Data-free Distillation of Denoising Diffusion Models with Bootstrapping** [[PyTorch]](https://jiataogu.me/boot/)
+- **BOOT: Data-free Distillation of Denoising Diffusion Models with Bootstrapping, ICML 2024** [[PyTorch]](https://jiataogu.me/boot/)
   - https://arxiv.org/abs/2306.05544
   - *Jiatao Gu, Shuangfei Zhai, Yizhe Zhang, Lingjie Liu, Josh Susskind*
 
 - **Fast ODE-based Sampling for Diffusion Models in Around 5 Steps, CVPR 2024** [[PyTorch]](https://github.com/zju-pi/diff-sampler)
   - https://arxiv.org/abs/2312.00094
   - *Zhenyu Zhou, Defang Chen, Can Wang, Chun Chen*
+
+- **On the Trajectory Regularity of ODE-based Diffusion Sampling, ICML 2024** [[PyTorch]](https://github.com/zju-pi/diff-sampler)
+  - https://arxiv.org/abs/2405.11326
+  - *Defang Chen, Zhenyu Zhou, Can Wang, Chunhua Shen, Siwei Lyu*
 
 ## Feature Distillation
 
